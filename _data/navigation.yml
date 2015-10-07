@@ -1,0 +1,21 @@
+# Site navigation links
+
+- title: About
+  url: /about/
+  excerpt: "About the partnership"
+ # image: blog-cover-thumb.jpg
+
+- title: Environments
+  url: /environments/
+  excerpt: "UW, NYU, and UC Berkeley"
+ # image: workshop-thumb.jpg
+
+- title: Themes
+  url: /themes/
+  excerpt: "Themes we work around"
+ # image: themes-thumb.jpg
+
+- title: Contact
+  url: /contact/
+  excerpt: "Contact us"
+ # image: contact-thumb.jpg
