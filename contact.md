@@ -8,7 +8,7 @@ image:
 
 ## General Inquiries
 
-general email here
+[ email: ddd@moore.org](mailto:ddd@moore.org)
 
 ## Moore-Sloan Data Science Environments
 
