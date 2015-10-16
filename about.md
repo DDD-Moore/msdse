@@ -45,3 +45,9 @@ At the end of this five-year experiment, our goal at the three universities is t
 - [UC Berkeley Institute for Data Science](/ucb)
 - [NYU Center for Data Science](/nyu)
 - [UW eScience Institute](/uw)
+
+<figure>
+  <img src="/images/2015_summit.JPG" alt="MSDSE Group" width="600">
+  <figcaption>2015 Moore-Sloan Data Science Environment Summit, held in Cle Elum, WA.</figcaption>
+</figure>
+

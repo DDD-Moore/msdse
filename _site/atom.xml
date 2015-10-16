@@ -5,15 +5,15 @@
 
   <title>MSDSE</title>
   <generator uri="https://github.com/jekyll/jekyll">Jekyll v2.4.0</generator>
-    <icon>http://ddd-moore.github.io//apple-touch-icon-precomposed.png</icon>
+    <icon>http://msdse.org/apple-touch-icon-precomposed.png</icon>
   <subtitle>Enabing data-driven academic research</subtitle>
-  <link href="http://ddd-moore.github.io//atom.xml" rel="self"/>
-  <link href="http://ddd-moore.github.io//" rel="alternate" type="text/html"/>
-  <updated>2015-10-07T13:38:50-07:00</updated>
-  <id>http://ddd-moore.github.io//</id>
+  <link href="http://msdse.org/atom.xml" rel="self"/>
+  <link href="http://msdse.org/" rel="alternate" type="text/html"/>
+  <updated>2015-10-16T09:32:58-07:00</updated>
+  <id>http://msdse.org/</id>
   <author>
     <name></name>
-    <uri>http://ddd-moore.github.io//</uri>
+    <uri>http://msdse.org/</uri>
     
   </author>
 
