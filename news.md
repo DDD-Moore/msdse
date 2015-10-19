@@ -1,8 +1,8 @@
 
 ---
 layout: archive
-permalink: /blog/
-title: "Blog"
+permalink: /news/
+title: "News"
 ---
 
 <div class="tiles">
