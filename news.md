@@ -1,8 +1,7 @@
-
 ---
-layout: archive
+layout: article
+title: News
 permalink: /news/
-title: "News"
 ---
 
 <div class="tiles">
