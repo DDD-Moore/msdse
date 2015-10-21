@@ -60,3 +60,7 @@ image:
 - NYU: [Laura Noren](mailto:laura.noren@nyu.edu)
 - UCB: [Charlotte Cabasse](mailto:charlottecabasse@berkeley.edu)
 - UW: [Cecilia Aragon](mailto:aragon@uw.edu)
+
+## NYU Data Science Newsletter
+
+Each week an email is sent out with links to publications, news articles, blogs, and events that are relevant to data science. [Sign up](https://docs.google.com/forms/d/1EODmLq8fjL6rSgn3Ip0Qdrp489Vi_dd9XVmkhZ5b8Iw/viewform?usp=send_form)

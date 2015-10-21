@@ -3,7 +3,7 @@ layout: article
 title: Berkeley Institute for Data Science
 permalink: /ucb/
 image:
-  feature: Slide1.jpg
+  feature: hacker.png
 ---
 
 
