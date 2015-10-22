@@ -3,7 +3,7 @@ layout: article
 permalink: /
 title: "Moore-Sloan Data Science Environments"
 image:
-  feature: string.jpg
+  feature: graphic.jpg
 ---
 
 
