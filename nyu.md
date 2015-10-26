@@ -26,7 +26,7 @@ CDS runs interdisciplinary activities that range from colloquia and seminars to 
 
 ## Who runs CDS?
 
-Professor Foster Provost is the Interim Director of CDS and Roy Lowrance, PhD, is the Managing Director. The three core faculty members and ten associated faculty members currently serve as voting members in faculty matters, including faculty hiring for CDS lines. 
+Professor Foster Provost is the Interim Director of CDS and Roy Lowrance, PhD, is the Managing Director. The three core faculty members and ten associated faculty members currently serve as voting members in faculty matters, including faculty hiring for CDS lines. Professor Juliana Freire is the Executive Director of the NYU Moore-Sloan Data Science Environment.
 
 ## How does CDS interact with other Data Science initiatives at NYU?
 
