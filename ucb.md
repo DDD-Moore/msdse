@@ -16,7 +16,7 @@ By facilitating this multidisciplinary collaboration, BIDS aims to enhance the d
 
 ## Where is BIDS? 
 
-BIDS is located in the center of the UC Berkeley campus at 190 Doe Library. The BIDS workspace was completed in 2014 and uses open floor plans and flexible layouts to foster collaboration and discussion. The space includes a combination of individual workspaces, meeting rooms. interaction spaces, and a lecture area.
+BIDS is located in the center of the UC Berkeley campus at [190 Doe Library](http://bids.berkeley.edu/about/directions-and-travel). The BIDS workspace was completed in 2014 and uses open floor plans and flexible layouts to foster collaboration and discussion. The space includes a combination of individual workspaces, meeting rooms. interaction spaces, and a lecture area.
 
 ## Who works there?
 
@@ -32,7 +32,7 @@ The space houses BIDS data science fellows and computational fellows, who are wo
 
 ## Who runs BIDS?
 
-BIDS leadership includes Executive Director Kevin Koy, Faculty Director Saul Perlmutter, and an executive committee comprising several senior fellows.
+BIDS leadership includes Faculty Director Saul Perlmutter, Executive Director Kevin Koy, and an executive committee comprising several senior fellows.
 
 How does BIDS interact with other data science initiatives at Berkeley?
 BIDS serves as a hub for and encourage collaboration among the more than [40 data science-related labs and departments](http://bids.berkeley.edu/resources/labs-and-departments) at UC Berkeley and the researchers, students, and staff within them. Additionally, BIDS senior fellows are playing a key role in rethinking the undergraduate experience around data science education at UC Berkeley.
