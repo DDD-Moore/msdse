@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Contact
+title: Contact Us
 permalink: /contact/
 image:
   feature: contact.jpg
@@ -40,7 +40,7 @@ image:
 **Tools and Software**
 
 - NYU: [Claudio Silva](mailto:csilva@nyu.edu)
-- UCB: [Fernando Perez](mailto:Fernando.Perez@berkeley.edu)
+- UCB: [St&eacute;fan Van der Walt](mailto:stefanv@berkeley.edu)
 - UW: [Bill Howe](mailto:billhowe@cs.washington.edu)
 
 **Reproducibility and Open Science**
