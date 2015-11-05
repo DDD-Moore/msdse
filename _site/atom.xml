@@ -9,7 +9,7 @@
   <subtitle>Enabing data-driven academic research</subtitle>
   <link href="http://msdse.org/atom.xml" rel="self"/>
   <link href="http://msdse.org/" rel="alternate" type="text/html"/>
-  <updated>2015-10-21T09:17:39-07:00</updated>
+  <updated>2015-11-05T13:50:58-08:00</updated>
   <id>http://msdse.org/</id>
   <author>
     <name></name>
@@ -19,35 +19,45 @@
 
   
   <entry>
-    <title>my first post</title>
-    <link href="http://msdse.org/first-post/"/>
-    <updated>2015-10-20T00:00:00-07:00</updated>
-    <id>http://msdse.org/new-post</id>
+    <title>Information Escrows to Combat Code Fraud</title>
+    <link href="http://msdse.org/news/code-fraud/"/>
+    <updated>2015-11-05T00:00:00-08:00</updated>
+    <id>http://msdse.org/news/code-fraud</id>
     <author>
       <name></name>
       <uri>http://msdse.org/</uri>
       
     </author>
     <content type="html">
-      
-      &lt;p&gt;my first blog post will go here!&lt;/p&gt;
+      &lt;img src=&quot;http://msdse.org/images/scared-bunny.JPG&quot;&gt;&lt;br/&gt;
+      &lt;p&gt;&lt;em&gt;This exerpt is taken from a &lt;a href=&quot;http://bids.berkeley.edu/news/information-escrows-combat-code-fraud&quot;&gt;November 5th post by Laura Norén on the Berkeley Institute for Data Science blog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Code fraud is the implementation of software that induces illegal, unethical, or otherwise malicious outcomes. Laura Norén, postdoctoral Associate at NYU’s &lt;a href=&quot;http://cds.nyu.edu/&quot;&gt;Center for Data Science&lt;/a&gt;, writes about code fraud, code review, risks around whistleblowing, and lowering the barrier for reporting code fraud. No need for potential whistleblowers to act like scared woodland creatures!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://bids.berkeley.edu/news/information-escrows-combat-code-fraud&quot;&gt;Read the original blog post&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
     </content>
   </entry>
   
   <entry>
-    <title>my first post</title>
-    <link href="http://msdse.org/first-post/"/>
-    <updated>2015-10-20T00:00:00-07:00</updated>
-    <id>http://msdse.org/first-post</id>
+    <title>2015 Data Science Environments Summit</title>
+    <link href="http://msdse.org/news/2015-summit/"/>
+    <updated>2015-10-22T00:00:00-07:00</updated>
+    <id>http://msdse.org/news/2015-summit</id>
     <author>
       <name></name>
       <uri>http://msdse.org/</uri>
       
     </author>
     <content type="html">
-      &lt;img src=&quot;http://msdse.org/images/IMG_0746.JPG&quot;&gt;&lt;br/&gt;
-      &lt;p&gt;my first blog post will go here!&lt;/p&gt;
+      &lt;img src=&quot;http://msdse.org/images/2015_summit.JPG&quot;&gt;&lt;br/&gt;
+      &lt;p&gt;&lt;em&gt;This exerpt is taken from an &lt;a href=&quot;http://escience.washington.edu/blog/data-science-environment-summit-2015&quot;&gt;October 12th post by Craig Young on the UW eScience Institute’s blog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;This past week, data and research scientists, postdocs, faculty, and staff gathered from the University of Washington, Berkeley, New York University, and both the Moore and Sloan foundations for the annual Data Science Environment Summit. Hosted this year by UW’s eScience Institute, the gathering took place October 4th through 7th at Suncadia Resort, nestled in the eastern foothills of the Cascade Mountains. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://escience.washington.edu/blog/data-science-environment-summit-2015&quot;&gt;Read the original blog post&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/uwescienceinstitute&quot;&gt;View more photos from the DSE Summit on the UW eScience Facebook page.&lt;/a&gt;&lt;/p&gt;
 
     </content>
   </entry>
