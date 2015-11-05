@@ -2,12 +2,13 @@
 layout: article
 title: Information Escrows to Combat Code Fraud
 permalink: /code-fraud/
+categories: news
 author: "Laura Noren"
 image:
   feature: scared-bunny.JPG
   teaser: scared-bunny.JPG
 ---
 
-Code fraud is the implementation of software that induces illegal, unethical, or otherwise malicious outcomes. Laura Noren, postdoctoral Associate at NYU's Center for Data Science, writes about code fraud, code review, and risks around whistleblowing, and lowering the barrier for reporting code fraud in this blog post on the [BIDS site](http://bids.berkeley.edu).
+Code fraud is the implementation of software that induces illegal, unethical, or otherwise malicious outcomes. Laura Noren, postdoctoral Associate at NYU's Center for Data Science, writes about code fraud, code review, risks around whistleblowing, and lowering the barrier for reporting code fraud. No need for potential whistleblowers to be a scared woodland creatures!
 
-_Read the full post: http://bids.berkeley.edu/news/information-escrows-combat-code-fraud_
+### _[Read the post](http://bids.berkeley.edu/news/information-escrows-combat-code-fraud)_
