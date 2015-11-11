@@ -6,6 +6,7 @@ image:
   feature: themes.jpg
 ---
 
+<a name="themetop"></a>
 The world's growing interest in data science is undeniable.  One can see this reflected in the increased number of new academic degree and certificate programs, the number of new jobs available for individuals with data science skills, and the rising migration of researchers with computational skills to the private sector. In an effort to channel our efforts, we focus on six major themes around which academic data science discussions coalesce: 
 
 - [Careers](#careers)
@@ -32,8 +33,9 @@ Activities around this theme in the Data Science Environments include the follow
 
 - [BIDS Working Group on Career Paths and Alternative Metrics](http://bids.berkeley.edu/working-groups/career-paths-and-alternative-metrics)
 - [UW eScience Institute Working Groups](http://escience.washington.edu/who-we-are/2014-working-group-leadership)
+- [Contact information for Working Group leads](/contact#wgcontacts)
 
-_[back to top](/themes)_
+_[back to top](/themes#themetop)_
 
 # <a name="education"></a>Education and Training
 
@@ -45,8 +47,10 @@ The Education Working Group is developing ways to use innovative teaching method
 
 - [BIDS Education & Training Working Group](http://bids.berkeley.edu/working-groups/education-and-training)
 - [UW eScience Working Groups](http://escience.washington.edu/who-we-are/2014-working-group-leadership)
+- [Contact information for Working Group leads](/contact#wgcontacts)
 
-_[back to top](/themes)_
+
+_[back to top](/themes#themetop)_
 
 # <a name="tools"></a>Tools and Software
 
@@ -63,8 +67,10 @@ Specific goals around this theme include the following:
 
 - [BIDS Working Group on Software Tools & Environments](http://bids.berkeley.edu/working-groups/software-tools-and-environments)
 - [UW eScience Working Groups](http://escience.washington.edu/who-we-are/2014-working-group-leadership)
+- [Contact information for Working Group leads](/contact#wgcontacts)
 
-_[back to top](/themes)_
+
+_[back to top](/themes#themetop)_
 
 # <a name="reproducibility"></a>Reproducibility and Open Science
 
@@ -76,8 +82,10 @@ As data-intensive scientific discovery becomes more common, reproducibility and 
 
 - [BIDS Working Group on Reproducibility and Open Science](http://bids.berkeley.edu/working-groups/reproducibility-and-open-science)
 - [UW eScience Institute Working Groups](http://escience.washington.edu/who-we-are/2014-working-group-leadership)
+- [Contact information for Working Group leads](/contact#wgcontacts)
 
-_[back to top](/themes)_
+
+_[back to top](/themes#themetop)_
 
 # <a name="space"></a>Physical and Intellectual Space
 
@@ -89,8 +97,10 @@ The goal of discussions around this theme include how to design common spaces th
 
 - [BIDS Working Group on Working Spaces and Culture](http://bids.berkeley.edu/working-groups/working-spaces-and-culture)
 - [UW eScience Institute Working Groups](http://escience.washington.edu/who-we-are/2014-working-group-leadership)
+- [Contact information for Working Group leads](/contact#wgcontacts)
 
-_[back to top](/themes)_
+
+_[back to top](/themes#themetop)_
 
 # <a name="ethnography"></a>Ethnography and Evaluation
 
@@ -108,5 +118,7 @@ The overarching goals of an evaluating the Data Science Environment Partnership 
 
 - [BIDS Working Group on Ethnography and Evaluation](http://bids.berkeley.edu/working-groups/ethnography-and-evaluation)
 - [UW eScience Institute Working Groups](http://escience.washington.edu/who-we-are/2014-working-group-leadership)
+- [Contact information for Working Group leads](/contact#wgcontacts)
 
-_[back to top](/themes)_
+
+_[back to top](/themes#themetop)_

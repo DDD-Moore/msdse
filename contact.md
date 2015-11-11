@@ -22,14 +22,14 @@ image:
 	- [website: escience.washington.edu](http://escience.washington.edu)
 	- [email: manager@escience.washington.edu](mailto:manager@escience.washington.edu)
 
-## Theme (Working Group) Contacts
+## <a name="wgcontacts"></a>Theme (Working Group) Contacts
 
 **Careers**
 
 - NYU: [Mik Laver](mailto:michael.laver@nyu.edu)
 - UCB: [Henry Brady](mailto:hbrady@berkeley.edu)
 - UW: [Ed Lazowska](mailto:lazowska@cs.washington.edu)
-- 
+ 
 **Education and Training**
 
 - NYU: [Arthur Spirling](mailto:arthur.spirling@nyu.edu)
