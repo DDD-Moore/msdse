@@ -32,7 +32,7 @@ Activities around this theme in the Data Science Environments include the follow
 ## Related Links
 
 - [BIDS Working Group on Career Paths and Alternative Metrics](http://bids.berkeley.edu/working-groups/career-paths-and-alternative-metrics)
-- [UW eScience Institute Working Groups](http://escience.washington.edu/who-we-are/2014-working-group-leadership)
+- [UW eScience Working Group on Career Paths and Alternative Metrics](http://escience.washington.edu/about-us/working-groups/career-paths-and-alternative-metrics/)
 - [Contact information for Working Group leads](/contact#wgcontacts)
 
 _[back to top](/themes#themetop)_
@@ -45,8 +45,8 @@ The Education Working Group is developing ways to use innovative teaching method
 
 ### Related Links
 
-- [BIDS Education & Training Working Group](http://bids.berkeley.edu/working-groups/education-and-training)
-- [UW eScience Working Groups](http://escience.washington.edu/who-we-are/2014-working-group-leadership)
+- [BIDS Education and Training Working Group](http://bids.berkeley.edu/working-groups/education-and-training)
+- [UW eScience Working Group on Education and Training](http://escience.washington.edu/about-us/working-groups/education-and-training/)
 - [Contact information for Working Group leads](/contact#wgcontacts)
 
 
@@ -65,8 +65,8 @@ Specific goals around this theme include the following:
 
 ### Related Links
 
-- [BIDS Working Group on Software Tools & Environments](http://bids.berkeley.edu/working-groups/software-tools-and-environments)
-- [UW eScience Working Groups](http://escience.washington.edu/who-we-are/2014-working-group-leadership)
+- [BIDS Working Group on Software Tools and Environments](http://bids.berkeley.edu/working-groups/software-tools-and-environments)
+- [UW eScience Working Group on Software Tools and Environments](http://escience.washington.edu/about-us/working-groups/software-tools-environments-and-support/)
 - [Contact information for Working Group leads](/contact#wgcontacts)
 
 
@@ -81,7 +81,7 @@ As data-intensive scientific discovery becomes more common, reproducibility and 
 ### Related links
 
 - [BIDS Working Group on Reproducibility and Open Science](http://bids.berkeley.edu/working-groups/reproducibility-and-open-science)
-- [UW eScience Institute Working Groups](http://escience.washington.edu/who-we-are/2014-working-group-leadership)
+- [UW eScience Institute Working Group on Reproducibility and Open Science](hhttp://escience.washington.edu/about-us/working-groups/reproducibility-and-open-science/)
 - [Contact information for Working Group leads](/contact#wgcontacts)
 
 
@@ -96,7 +96,7 @@ The goal of discussions around this theme include how to design common spaces th
 ### Related Links
 
 - [BIDS Working Group on Working Spaces and Culture](http://bids.berkeley.edu/working-groups/working-spaces-and-culture)
-- [UW eScience Institute Working Groups](http://escience.washington.edu/who-we-are/2014-working-group-leadership)
+- [UW eScience Institute Working Group on Working Spaces and Culture](http://escience.washington.edu/about-us/working-groups/working-spaces-and-culture/)
 - [Contact information for Working Group leads](/contact#wgcontacts)
 
 
@@ -113,7 +113,7 @@ The overarching goals of an evaluating the Data Science Environment Partnership 
 ### Related Links
 
 - [BIDS Working Group on Data Science Studies](http://bids.berkeley.edu/working-groups/ethnography-and-evaluation)
-- [UW eScience Institute Working Groups](http://escience.washington.edu/who-we-are/2014-working-group-leadership)
+- [UW eScience Institute Working Group on Data Science Studies](http://escience.washington.edu/about-us/working-groups/uw-data-science-studies/)
 - [Contact information for Working Group leads](/contact#wgcontacts)
 
 
