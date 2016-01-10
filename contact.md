@@ -55,11 +55,11 @@ image:
 - UCB: [Kevin Koy](mailto:kkoy@berkeley.edu)
 - UW: [Sarah Stone and Micaela Parker](mailto:manager@escience.washington.edu)
 
-**Ethnography and Evaluation**
+**Data Science Studies**
 
 - NYU: [Laura Noren](mailto:laura.noren@nyu.edu)
 - UCB: [Charlotte Cabasse](mailto:charlottecabasse@berkeley.edu)
-- UW: [Cecilia Aragon](mailto:aragon@uw.edu)
+- UW: [Brittany Fiore-Gartland](mailto:fioreb@uw.edu)
 
 ## NYU Data Science Newsletter
 

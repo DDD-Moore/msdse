@@ -14,7 +14,7 @@ The world's growing interest in data science is undeniable.  One can see this re
 - [Tools and Software](#tools)
 - [Reproducibility and Open Science](#reproducibility)
 - [Physical and Intellectual Space](#space)
-- [Ethnography and Evaluation](#ethnography)
+- [Data Science Studies](#ethnography)
 
 # <a name="careers"></a>Careers
 
@@ -102,13 +102,9 @@ The goal of discussions around this theme include how to design common spaces th
 
 _[back to top](/themes#themetop)_
 
-# <a name="ethnography"></a>Ethnography and Evaluation
+# <a name="ethnography"></a>Data Science Studies
 
-### Ethnography
-
-The emerging practice of data science is surrounded by cultural and organizational processes that we don’t yet fully understand. How people work, how disciplines adapt to new demands of data-intensive research, and the way universities are organized all shape the context for the future of data science. The ethnography team seeks to address this gap utilizing a variety of qualitative methods including interviews and close observations of data science practices.
-
-### Evaluation
+The emerging practice of data science is surrounded by cultural and organizational processes that we don’t yet fully understand. How people work, how disciplines adapt to new demands of data-intensive research, and the way universities are organized all shape the context for the future of data science. The Data Science Studies team seeks to address this gap utilizing a variety of qualitative methods including interviews and close observations of data science practices.
 
 The world of data science is changing rapidly; how can we be sure that our efforts are contributing to the academic evolution that we envision? Understanding the complexity of the landscape and integrating this knowledge with study designs that can evaluate the extent to which our efforts are driving the desired results will require a complex interplay between quantitative and qualitative approaches that is at the frontier of existing “mixed methods” strategies.
 
@@ -116,7 +112,7 @@ The overarching goals of an evaluating the Data Science Environment Partnership 
 
 ### Related Links
 
-- [BIDS Working Group on Ethnography and Evaluation](http://bids.berkeley.edu/working-groups/ethnography-and-evaluation)
+- [BIDS Working Group on Data Science Studies](http://bids.berkeley.edu/working-groups/ethnography-and-evaluation)
 - [UW eScience Institute Working Groups](http://escience.washington.edu/who-we-are/2014-working-group-leadership)
 - [Contact information for Working Group leads](/contact#wgcontacts)
 
