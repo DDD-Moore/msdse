@@ -104,11 +104,8 @@ _[back to top](/themes#themetop)_
 
 # <a name="ethnography"></a>Data Science Studies
 
-The emerging practice of data science is surrounded by cultural and organizational processes that we don’t yet fully understand. How people work, how disciplines adapt to new demands of data-intensive research, and the way universities are organized all shape the context for the future of data science. The Data Science Studies team seeks to address this gap utilizing a variety of qualitative methods including interviews and close observations of data science practices.
-
-The world of data science is changing rapidly; how can we be sure that our efforts are contributing to the academic evolution that we envision? Understanding the complexity of the landscape and integrating this knowledge with study designs that can evaluate the extent to which our efforts are driving the desired results will require a complex interplay between quantitative and qualitative approaches that is at the frontier of existing “mixed methods” strategies.
-
-The overarching goals of an evaluating the Data Science Environment Partnership are to provide actionable information and a landscape view of academic data science in the early stages of the initiative, and in later stages, to inform the Partnership about the type and effectiveness of the changes that have taken place. 
+Data Science Studies is a multi-sited working group of cross-disciplinary researchers studying the sociocultural and organizational processes around the emerging practice of data science. As a sub-field of Science and Technology Studies, we utilize a variety of qualitative and computational methods to understand the changing scientific practices, knowledge infrastructures, and cultural values that are shaping the environment for data-intensive scientific research. This encompasses, but is not limited to research focused around topics such as: the cultural and institutional contexts for open science, open software, and open data, tool building and scientific workflow, new pedagogical models for data science education, how disciplines are adapting to the demands of data-intensive science, new epistemologies and social implications of data-intensive science, human-centered data science, and studies of sociotechnical
+data science ecosystems.  
 
 ### Related Links
 
