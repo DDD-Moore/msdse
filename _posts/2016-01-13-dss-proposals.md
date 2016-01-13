@@ -1,9 +1,9 @@
 ---
 layout: article
-title: Call for Proposals: Critical Data Studies 
+title: Call for Proposals on Critical Data Studies 
 permalink: /news/Critical Data Studies/
 categories: news
-page.author: 
+page.author: Carly Strasser
 image:
   feature: barcelona.jpg
   teaser: barcelona.jpg
@@ -17,5 +17,5 @@ They are inviting papers investigating data-driven techniques in academic resear
 
 **[Read the original blog post](hhttp://bids.berkeley.edu/news/call-proposals-critical-data-studies-track%E2%80%944seasst-conference-bcn-2106-science-technology-other)**
 
-[Image from Flickr by Moyan Brenn](https://www.flickr.com/photos/aigle_dore/5237974849)
+_[Image from Flickr by Moyan Brenn](https://www.flickr.com/photos/aigle_dore/5237974849)_
 

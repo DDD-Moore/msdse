@@ -9,7 +9,7 @@
   <subtitle>Enabing data-driven academic research</subtitle>
   <link href="http://msdse.org/atom.xml" rel="self"/>
   <link href="http://msdse.org/" rel="alternate" type="text/html"/>
-  <updated>2015-11-11T12:14:05-08:00</updated>
+  <updated>2016-01-13T11:01:31-08:00</updated>
   <id>http://msdse.org/</id>
   <author>
     <name></name>
@@ -17,6 +17,32 @@
     
   </author>
 
+  
+  <entry>
+    <title>Call for Proposals on Critical Data Studies</title>
+    <link href="http://msdse.org/news/Critical Data Studies/"/>
+    <updated>2016-01-13T00:00:00-08:00</updated>
+    <id>http://msdse.org/news/dss-proposals</id>
+    <author>
+      <name></name>
+      <uri>http://msdse.org/</uri>
+      
+    </author>
+    <content type="html">
+      &lt;img src=&quot;http://msdse.org/images/barcelona.jpg&quot;&gt;&lt;br/&gt;
+      &lt;p&gt;&lt;em&gt;This exerpt is taken from an &lt;a href=&quot;http://bids.berkeley.edu/news/call-proposals-critical-data-studies-track%E2%80%944seasst-conference-bcn-2106-science-technology-other&quot;&gt;January 11th post by the Data Science Studies Working Group on the UC Berkeley BIDS blog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;/themes/#ethnography&quot;&gt;Data Science Studies (DSS) group&lt;/a&gt; at New York University, UC Berkeley, and Univeristy of Washington, part of the Moore and Sloan Data Science Environment (MSDSE), together with collaborators from The Center for Science, Technology, Medicine, &amp;amp; Society (CSTMS) at UC Berkeley, are organizing a thematic track on &lt;a href=&quot;http://www.nomadit.co.uk/easst/easst_4s2016/panels.php5?PanelID=4041&quot;&gt;Critical Data Studies&lt;/a&gt; for the 4s/EASST Conference BCN-2106 Science + Technology by Other Means: Exploring Collectives, Spaces, and Futures in Barcelona, August 31 – September 3, 2016.&lt;/p&gt;
+
+&lt;p&gt;They are inviting papers investigating data-driven techniques in academic research and analytic industries and the consequences of implementing data­-driven products and processes. Papers utilizing computational methods or ethnography with theorization of technology, social power, or politics are encouraged.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;hhttp://bids.berkeley.edu/news/call-proposals-critical-data-studies-track%E2%80%944seasst-conference-bcn-2106-science-technology-other&quot;&gt;Read the original blog post&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://www.flickr.com/photos/aigle_dore/5237974849&quot;&gt;Image from Flickr by Moyan Brenn&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+
+    </content>
+  </entry>
   
   <entry>
     <title>Information Escrows to Combat Code Fraud</title>

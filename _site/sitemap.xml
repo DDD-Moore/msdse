@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://msdse.org/news/Critical Data Studies/</loc>
+    <lastmod>2016-01-13T00:00:00-08:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://msdse.org/news/code-fraud/</loc>
     <lastmod>2015-11-05T00:00:00-08:00</lastmod>
     <priority>0.8</priority>
@@ -12,55 +17,55 @@
   </url>
   <url>
     <loc>http://msdse.org/about/</loc>
-    <lastmod>2015-11-11T12:14:05-08:00</lastmod>
+    <lastmod>2016-01-13T11:01:31-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://msdse.org/contact/</loc>
-    <lastmod>2015-11-11T12:14:05-08:00</lastmod>
+    <lastmod>2016-01-13T11:01:31-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://msdse.org/environments/</loc>
-    <lastmod>2015-11-11T12:14:05-08:00</lastmod>
+    <lastmod>2016-01-13T11:01:31-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://msdse.org/</loc>
-    <lastmod>2015-11-11T12:14:05-08:00</lastmod>
+    <lastmod>2016-01-13T11:01:31-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://msdse.org/news/</loc>
-    <lastmod>2015-11-11T12:14:05-08:00</lastmod>
+    <lastmod>2016-01-13T11:01:31-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://msdse.org/nyu/</loc>
-    <lastmod>2015-11-11T12:14:05-08:00</lastmod>
+    <lastmod>2016-01-13T11:01:31-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://msdse.org/themes/</loc>
-    <lastmod>2015-11-11T12:14:05-08:00</lastmod>
+    <lastmod>2016-01-13T11:01:31-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://msdse.org/ucb/</loc>
-    <lastmod>2015-11-11T12:14:05-08:00</lastmod>
+    <lastmod>2016-01-13T11:01:31-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://msdse.org/uw/</loc>
-    <lastmod>2015-11-11T12:14:05-08:00</lastmod>
+    <lastmod>2016-01-13T11:01:31-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
