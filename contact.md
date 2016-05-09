@@ -45,7 +45,7 @@ image:
 
 **Reproducibility and Open Science**
 
-- NYU: [Kyle Cranmer](mailto:kyle.cranmer@nyu.edu)
+- NYU: [Juliana Freire](mailto:juliana.freire@nyu.edu)
 - UCB: [Philip Stark](mailto:stark@stat.berkeley.edu)
 - UW: [Randy LeVeque](mailto:rjl@amath.washington.edu)
 
