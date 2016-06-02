@@ -19,3 +19,9 @@
   url: /news/
   excerpt: "DSE news and events"
  # image: contact-thumb.jpg
+
+- title: Summit
+  url: /summit/
+  excerpt: "2016 Data Science Summit"
+ # image: contact-thumb.jpg
+ 
