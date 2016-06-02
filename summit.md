@@ -10,11 +10,13 @@ image:
 
 **Location:** [Rosenthal Pavilion](https://www.nyu.edu/community/conference-event-services/facilities/large/rosenthal-pavilion.html), 60 Washington Sq S, 10th Floor, New York NY 10012
 
-The [Data Science Environments Partnership](/about) invites you to a one-day Data Science Summit in NYC on 26 October 2016. This summit will bring together data science practitioners in a broad range of fields, from life, physical, and social sciences to the computational, statistical, and mathematical disciplines, to explore what it means to advance data science for research.
+The [Data Science Environments Partnership](/about) is hosting a one-day Data Science Summit in NYC on 26 October 2016. This summit will bring together data science practitioners in a broad range of fields, from life, physical, and social sciences to the computational, statistical, and mathematical disciplines, to explore what it means to advance data science for research.
+
+This Summit is part of a week of activities for Data Science grantees from the [Moore Foundation](http://www.moore.org) and [Sloan Foundation](http://sloan.org). The DSE partnership will be convening Monday and Tuesday at Mohnok in upstate New York; this Summit will be the third day of that meeting. On Thursday and Friday, the Moore Foundation is convening their Data-Driven Discovery Investigators for their annual symposium, to be held in New York City. This Summit will serve as the first day of that three day meeting. In addition to these grantees, the partnership has also invited several individuals who are part of the data science community in some capacity.
 
 We expect over 200 people for an event that includes lunch and goes through an early evening cocktail and appetizer hour. The summit will include demonstrations of new and evolving data science projects and technologies, “birds of a feather” breakout discussions, and two or more plenary discussions throughout the day.
 
-The intent of this inaugural Data Science Summit is to build connections and seed new collaborations between the large network of data science practitioners involved in data-intensive research in the United States. We envision this event will continue to grow in future years, so for this initial year, we have limited the number of invited participants to allow for a more focused engagement. Your invitation is not transferable; however, if you have suggestions for people we should consider inviting, please send their names and contact information to us.
+The intent of this inaugural Data Science Summit is to build connections and seed new collaborations between the large network of data science practitioners involved in data-intensive research in the United States. We envision this event will continue to grow in future years, so for this initial year, we have limited the number of invited participants to allow for a more focused engagement. 
 
 ## Rough Tentative Agenda
 
