@@ -14,6 +14,8 @@ The [Data Science Environments Partnership](/about) is hosting a one-day Data Sc
 
 This Summit is part of a week of activities for Data Science grantees from the [Moore Foundation](http://www.moore.org) and [Sloan Foundation](http://sloan.org). The DSE partnership will be convening Monday and Tuesday at Mohnok in upstate New York; this Summit will be the third day of that meeting. On Thursday and Friday, the Moore Foundation is convening their Data-Driven Discovery Investigators for their annual symposium, to be held in New York City. This Summit will serve as the first day of that three day meeting. In addition to these grantees, the partnership has also invited several individuals who are part of the data science community in some capacity.
 
+<img src="https://github.com/DDD-Moore/msdse/images/raw/master/image.pdf" align="center">
+
 We expect over 200 people for an event that includes lunch and goes through an early evening cocktail and appetizer hour. The summit will include demonstrations of new and evolving data science projects and technologies, “birds of a feather” breakout discussions, and two or more plenary discussions throughout the day.
 
 The intent of this inaugural Data Science Summit is to build connections and seed new collaborations between the large network of data science practitioners involved in data-intensive research in the United States. We envision this event will continue to grow in future years, so for this initial year, we have limited the number of invited participants to allow for a more focused engagement. 
