@@ -37,6 +37,7 @@ The intent of this inaugural Data Science Summit is to build connections and see
 
 | Name | Affiliation | 
 | :----------- | :----------------- |
+|David Spergel | Princeton |
 |Alex Szalay |Johns Hopkins University|
 |Tony Hey |UW |
 |Susan Davidson |U Penn |
