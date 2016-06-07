@@ -61,11 +61,68 @@ The intent of this inaugural Data Science Summit is to build connections and see
 
 | Name | Affiliation | 
 | :----------- | :----------------- |
-|Juliana Freire|NYU |
-|Micaela Parker |UW |
-|Kevin Koy|UC Berkeley|
-|Sarah Stone|UW|
-|Ed	Lazowska|UW|
+|	Andreas Mueller	|	New York University	|
+|	Andrew Guess	|	New York University	|
+|	Arthur Spirling	|	New York University	|
+|	Brian McFee	|	New York University	|
+|	Daniela Huppenkothen	|	New York University	|
+|	Kathleen Zichy	|	New York University	|
+|	Kevin Munger	|	New York University	|
+|	Mik Laver	|	New York University	|
+|	Nathaniel Beck	|	New York University	|
+|	Roy Lowrance	|	New York University	|
+|	Sam Bowman	|	New York University	|
+|	Sunandan Chakraborty	|	New York University	|
+|	todd gureckis	|	New York University	|
+|	Vicky Steeves	|	New York University	|
+|	Yann LeCun	|	New York University	|
+|Juliana Freire|New York University |
+|	Ali Ferguson	|	University of California at Berkeley	|
+|	Carl Boettiger	|	University of California at Berkeley	|
+|	Chihoko Cullens	|	University of California at Berkeley	|
+|	Cyrus Dioun	|	University of California at Berkeley	|
+|	Dan Hammer	|	University of California at Berkeley	|
+|	Daniela Ushizima	|	University of California at Berkeley	|
+|	Deb Agarwal	|	University of California at Berkeley	|
+|	Erik Mitchell	|	University of California at Berkeley	|
+|	Fernando Perez	|	University of California at Berkeley	|
+|	Garret Christensen	|	University of California at Berkeley	|
+|	Harald Frey	|	University of California at Berkeley	|
+|	Jamie Whitacre	|	University of California at Berkeley	|
+|	Jasmine Nirody	|	University of California at Berkeley	|
+|	Jey Kottalam	|	University of California at Berkeley	|
+|	Kevin Koy	|	University of California at Berkeley	|
+|	Karthik Ram	|	University of California at Berkeley	|
+|	Kellie Ottoboni	|	University of California at Berkeley	|
+|	Kyle Barbary	|	University of California at Berkeley	|
+|	Nathaniel Smith	|	University of California at Berkeley	|
+|	Neil Davies	|	University of California at Berkeley	|
+|	Nick Swanson-Hysell	|	University of California at Berkeley	|
+|	Stefan van der Walt	|	University of California at Berkeley	|
+|	Stuart Geiger	|	University of California at Berkeley	|
+|	Alexander Franks	|	University of Washington	|
+|	Ariel Rokem	|	University of Washington	|
+|	Bernease Herman	|	University of Washington	|
+|	Dave Beck	|	University of Washington	|
+|	Dongfang Zhao	|	University of Washington	|
+|	Eurika Kaiser	|	University of Washington	|
+|	Jacob Schreiber	|	University of Washington	|
+|	Jenny Muilenburg	|	University of Washington	|
+|	Jes Ford	|	University of Washington	|
+|	Jevin West	|	University of Washington	|
+|	Jose Manuel MAGALLANES	|	University of Washington	|
+|	Joseph Hellerstein	|	University of Washington	|
+|	Magdalena Balazinska	|	University of Washington	|
+|	Michael Beyeler	|	University of Washington	|
+|	Rahul Biswas	|	University of Washington	|
+|	Thaisa Way	|	University of Washington	|
+|	Tyler McCormick	|	University of Washington	|
+|	Werner Stuetzle	|	University of Washington	|
+|	Xiaofeng Meng	|	University of Washington	|
+|	Yi Cao	|	University of Washington	|
+|Micaela Parker |University of Washington |
+|Sarah Stone|University of Washington|
+|Ed	Lazowska|University of Washington|
 
 ### Moore Data-Driven Discovery Investigators 
 
