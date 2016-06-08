@@ -57,7 +57,6 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |Elliott Shore |Association of Research Libraries|
 |Kathleen McKeown|Columbia University|
 
-
 ### Moore Data-Driven Discovery Investigators 
 
 | Name | Affiliation | 
@@ -76,6 +75,7 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |Matthew Turk	|University of Illinois Urbana-Champaign|
 |Laura Waller	|University of California Berkeley|
 |Ethan White	|University of Florida|
+
 ### Confirmed Data Science Environment Attendees
 
 | Name | Affiliation | 
