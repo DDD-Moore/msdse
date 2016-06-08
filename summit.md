@@ -37,26 +37,45 @@ The intent of this inaugural Data Science Summit is to build connections and see
 
 | Name | Affiliation | 
 | :----------- | :----------------- |
-|David Spergel | Princeton |
+|David Spergel | Princeton University |
 |Alex Szalay |Johns Hopkins University|
-|Tony Hey |UW |
-|Susan Davidson |U Penn |
-|Enrico	Bertini |NYU|
-|Jeremy	Freeman |Janelia|
+|Tony Hey |University of Washington |
+|Susan Davidson |University of Pennsylvania |
+|Enrico	Bertini |New York University|
+|Jeremy	Freeman |Janelia Research Campus|
 |Tracy Teal |Data Carpentry|
-|Divesh	Srivastava| |
-|Brian Granger | Jupyter |
-|Kerstin Kleese Van Dam | BNL|
-|Robert	Brunner | UIUC |
-|Rumi Chunara |NYU |
-|Chaitanya Baru |NSF|
+|Divesh	Srivastava|AT&T Research|
+|Brian Granger |Project Jupyter & CalPoly|
+|Kerstin Kleese Van Dam | Brookhaven National Laboratory|
+|Robert	Brunner |University of Illinois Urbana-Champaign |
+|Rumi Chunara |New York University |
+|Chaitanya Baru |National Science Foundation|
 |Lenny Teytelman | Protocols.io|
-|Giuseppe Longo | |
-|Carl Lagoze| U Michigan|
-|Meredith Broussard|NYU |
-|Elliott Shore |ARL|
+|Giuseppe Longo |CNRS (Le Centre national de la Recherche Scientifique) |
+|Carl Lagoze| University of Michigan|
+|Meredith Broussard|New York University|
+|Elliott Shore |Association of Research Libraries|
 |Kathleen McKeown|Columbia University|
 
+
+### Moore Data-Driven Discovery Investigators 
+
+| Name | Affiliation | 
+| :----------- | :----------------- |
+|Joshua Bloom	|University of California Berkeley  |
+|Titus Brown	|University of California Davis|
+|Casey Greene	|University of Pennsylvania |
+|Jeff Heer |University of Washington|
+|Carl Kingsford	|Carnegie Mellon University|
+|Laurel Larsen	|University of California Berkeley|
+|Chris Re	|Stanford University|
+|Kim Reynolds	|University of Texas Southwestern Medical Center|
+|Amit Singer	|Princeton University|
+|Matthew Stephens	|University of Chicago|
+|Blair Sullivan	|North Carolina State University|
+|Matthew Turk	|University of Illinois Urbana-Champaign|
+|Laura Waller	|University of California Berkeley|
+|Ethan White	|University of Florida|
 ### Confirmed Data Science Environment Attendees
 
 | Name | Affiliation | 
@@ -124,23 +143,5 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |Sarah Stone|University of Washington|
 |Ed	Lazowska|University of Washington|
 
-### Moore Data-Driven Discovery Investigators 
-
-| Name | Affiliation | 
-| :----------- | :----------------- |
-|Joshua Bloom	|UC Berkeley  |
-|Titus Brown	|UC Davis|
-|Casey Greene	|U Penn |
-|Jeff Heer |UW|
-|Carl Kingsford	|Carnegie Mellon|
-|Laurel Larsen	|UC Berkeley|
-|Chris Re	|Stanford|
-|Kim Reynolds	|UT Southwestern|
-|Amit Singer	|Princeton|
-|Matthew Stephens	|U Chicago|
-|Blair Sullivan	|NC State|
-|Matthew Turk	|UIUC|
-|Laura Waller	|UC Berkeley|
-|Ethan White	|U Florida|
 
 _Image [from flickr by Daniel Mennerich](https://www.flickr.com/photos/danielmennerich/5738689951)_
