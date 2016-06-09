@@ -96,6 +96,20 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |	Vicky Steeves	|	New York University	|
 |	Yann LeCun	|	New York University	|
 |Juliana Freire|New York University |
+|	Bowen Yu	|	New York University	|
+|	Brenden Lake	|	New York University	|
+|	Bruno Goncalves	|	New York University	|
+|	Carlos Fernandez-Granda	|	New York University	|
+|	David Hogg	|	New York University	|
+|	Emily Mathis	|	New York University	|
+|	jonathan nagler	|	New York University	|
+|	Laura Noren	|	New York University	|
+|	Remi Rampin	|	New York University	|
+|	Roger Kingsepp	|	New York University	|
+|	Rumi Chunara	|	New York University	|
+|	Vasant Dhar	|	New York University	|
+|	Ying Lu	|	New York University	|
+
 |	Ali Ferguson	|	University of California at Berkeley	|
 |	Carl Boettiger	|	University of California at Berkeley	|
 |	Chihoko Cullens	|	University of California at Berkeley	|
@@ -119,6 +133,7 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |	Nick Swanson-Hysell	|	University of California at Berkeley	|
 |	Stefan van der Walt	|	University of California at Berkeley	|
 |	Stuart Geiger	|	University of California at Berkeley	|
+|	Peter Nugent	|	University of California at Berkeley	|
 |	Alexander Franks	|	University of Washington	|
 |	Ariel Rokem	|	University of Washington	|
 |	Bernease Herman	|	University of Washington	|
@@ -142,6 +157,12 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |Micaela Parker |University of Washington |
 |Sarah Stone|University of Washington|
 |Ed	Lazowska|University of Washington|
+|	Allison Smith	|	University of Washington	|
+|	Andrew Connolly	|	University of Washington	|
+|	Anissa Tanweer	|	University of Washington	|
+|	Rob Fatland	|	University of Washington	|
+|	Serena Liu	|	University of Washington	|
+|	Xin Ru (Nancy) Wang	|	University of Washington	|
 
 
 _Image [from flickr by Daniel Mennerich](https://www.flickr.com/photos/danielmennerich/5738689951)_
