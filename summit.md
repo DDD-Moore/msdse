@@ -37,6 +37,7 @@ The intent of this inaugural Data Science Summit is to build connections and see
 
 | Name | Affiliation | 
 | :----------- | :----------------- |
+|Alex Chohlas-Wood |NYPD|
 |David Spergel | Princeton University |
 |Alex Szalay |Johns Hopkins University|
 |Tony Hey |University of Washington |
