@@ -111,7 +111,7 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |	Rumi Chunara	|	New York University	|
 |	Vasant Dhar	|	New York University	|
 |	Ying Lu	|	New York University	|
-
+|	Heiko Mueller	|	New York University	|
 |	Ali Ferguson	|	University of California at Berkeley	|
 |	Carl Boettiger	|	University of California at Berkeley	|
 |	Chihoko Cullens	|	University of California at Berkeley	|
@@ -136,6 +136,8 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |	Stefan van der Walt	|	University of California at Berkeley	|
 |	Stuart Geiger	|	University of California at Berkeley	|
 |	Peter Nugent	|	University of California at Berkeley	|
+|	Nick Adams	|	University of California at Berkeley	|
+|	Robert Nadeau	|	University of California at Berkeley	|
 |	Alexander Franks	|	University of Washington	|
 |	Ariel Rokem	|	University of Washington	|
 |	Bernease Herman	|	University of Washington	|
@@ -165,6 +167,10 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |	Rob Fatland	|	University of Washington	|
 |	Serena Liu	|	University of Washington	|
 |	Xin Ru (Nancy) Wang	|	University of Washington	|
+|	Bryna Hazelton	|	University of Washington	|
+|	Vaughn Iverson	|	University of Washington	|
+|	Thiago Costa	|	University of Washington	|
+|	Valentina Staneva	|	University of Washington	|
 
 
 _Image [from flickr by Daniel Mennerich](https://www.flickr.com/photos/danielmennerich/5738689951)_
