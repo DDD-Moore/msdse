@@ -6,9 +6,9 @@ image:
   feature: nyc.jpg 
 ---
 
-### Wednesday October 26, 11:30 am - 8:00 pm
+### Wednesday October 26, 11:30 am - 9:30 pm
 
-**Location:** [Rosenthal Pavilion](https://www.nyu.edu/community/conference-event-services/facilities/large/rosenthal-pavilion.html), 60 Washington Sq S, 10th Floor, New York NY 10012
+**Location:** [Rosenthal Pavilion](https://www.nyu.edu/community/conference-event-services/facilities/large/rosenthal-pavilion.html), 60 Washington Sq S, 10th Floor, New York NY 10012 (Event will run from 11:30 - 6:00; Reception following with location TBD)
 
 The [Data Science Environments Partnership](/about) is hosting a one-day Data Science Summit in NYC on 26 October 2016. This summit will bring together data science practitioners in a broad range of fields, from life, physical, and social sciences to the computational, statistical, and mathematical disciplines, to explore what it means to advance data science for research.
 
