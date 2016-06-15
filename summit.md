@@ -28,8 +28,9 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |14:00 - 14:30 |Break|
 |14:30 - 15:30 |Panel on Career paths|
 |15:30 - 17:00 |Breakouts around data science themes|
-|17:00 - 18:30 |Lightning talks + posters/demos with food/beverages|
-|18:30 - 20:00| TBD|
+|17:00 - 18:00 |Lightning talks + posters/demos|
+|18:00 - 18:30|Travel to reception location|
+|18:30 - 21:30|Reception with drinks and hors d'oeuvres|
 
 ## Attendees
 
