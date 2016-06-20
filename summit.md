@@ -38,6 +38,7 @@ The intent of this inaugural Data Science Summit is to build connections and see
 
 | Name | Affiliation | 
 | :----------- | :----------------- |
+|Holly Bik | New York University|
 |Elizabeth Bruce|MIT |
 |Merce Crosas | Harvard University|
 |Vasant Honavar| Penn State University|
