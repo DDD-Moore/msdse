@@ -144,6 +144,7 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |	Peter Nugent	|	University of California at Berkeley	|
 |	Nick Adams	|	University of California at Berkeley	|
 |	Robert Nadeau	|	University of California at Berkeley	|
+|	Anthony Suen	|	University of California at Berkeley	|
 |	Alexander Franks	|	University of Washington	|
 |	Ariel Rokem	|	University of Washington	|
 |	Bernease Herman	|	University of Washington	|
@@ -177,6 +178,9 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |	Vaughn Iverson	|	University of Washington	|
 |	Thiago Costa	|	University of Washington	|
 |	Valentina Staneva	|	University of Washington	|
+|	Jesse Piedford	|	University of Washington	|
+|	Robin Brooks	|	University of Washington	|
+|	Jenny Muilenburg	|	University of Washington	|
 
 
 _Image [from flickr by Daniel Mennerich](https://www.flickr.com/photos/danielmennerich/5738689951)_
