@@ -38,6 +38,7 @@ The intent of this inaugural Data Science Summit is to build connections and see
 
 | Name | Affiliation | 
 | :----------- | :----------------- |
+|James Hetherington |University College London|
 |Arfon Smith | GitHub |
 |Holly Bik | New York University|
 |Elizabeth Bruce|MIT |
