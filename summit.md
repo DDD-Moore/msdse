@@ -38,6 +38,7 @@ The intent of this inaugural Data Science Summit is to build connections and see
 
 | Name | Affiliation | 
 | :----------- | :----------------- |
+|Andrew Hill |CartoDB |
 |Chris Wiggins|NY Times & Columbia University  |
 |Justin Hendrix |NYC Media Lab|
 |James Hetherington |University College London|
