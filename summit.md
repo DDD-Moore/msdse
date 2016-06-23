@@ -38,6 +38,14 @@ The intent of this inaugural Data Science Summit is to build connections and see
 
 | Name | Affiliation | 
 | :----------- | :----------------- |
+|Huy Vo |CUNY|
+|Meredith Lee | UC Berkeley|
+|Michael Stebbins | Arnold Foundation |
+|Stuart Feldman | Schmidt Philanthropies|
+|Stuart Buck | Arnold Foundation|
+|Richard Wilder | Gates Foundation|
+|Guido Gerig |New York University |
+|Maria Zemankova | NSF|
 |Andrew Hill |CartoDB |
 |Chris Wiggins|NY Times & Columbia University  |
 |Justin Hendrix |NYC Media Lab|
