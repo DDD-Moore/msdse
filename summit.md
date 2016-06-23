@@ -38,24 +38,25 @@ The intent of this inaugural Data Science Summit is to build connections and see
 
 | Name | Affiliation | 
 | :----------- | :----------------- |
-|Huy Vo |CUNY|
+|Ashley Zauderer | Templeton Foundation |
+|Huy Vo |City University of New York|
 |Meredith Lee | UC Berkeley|
 |Michael Stebbins | Arnold Foundation |
 |Stuart Feldman | Schmidt Philanthropies|
 |Stuart Buck | Arnold Foundation|
 |Richard Wilder | Gates Foundation|
 |Guido Gerig |New York University |
-|Maria Zemankova | NSF|
+|Maria Zemankova | National Science Foundation|
 |Andrew Hill |CartoDB |
-|Chris Wiggins|NY Times & Columbia University  |
-|Justin Hendrix |NYC Media Lab|
+|Chris Wiggins|New York Times & Columbia University  |
+|Justin Hendrix |New York City Media Lab|
 |James Hetherington |University College London|
 |Arfon Smith | GitHub |
 |Holly Bik | New York University|
-|Elizabeth Bruce|MIT |
+|Elizabeth Bruce|Massachusetts Institute of Technology |
 |Merce Crosas | Harvard University|
 |Vasant Honavar| Penn State University|
-|Alex Chohlas-Wood |NYPD|
+|Alex Chohlas-Wood |New York Police Department|
 |David Spergel | Princeton University |
 |Alex Szalay |Johns Hopkins University|
 |Tony Hey |University of Washington |
