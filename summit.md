@@ -38,6 +38,8 @@ The intent of this inaugural Data Science Summit is to build connections and see
 
 | Name | Affiliation | 
 | :----------- | :----------------- |
+|Chris Wiggins|NY Times & Columbia University  |
+|Justin Hendrix |NYC Media Lab|
 |James Hetherington |University College London|
 |Arfon Smith | GitHub |
 |Holly Bik | New York University|
