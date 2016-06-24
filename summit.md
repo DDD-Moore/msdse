@@ -38,6 +38,7 @@ The intent of this inaugural Data Science Summit is to build connections and see
 
 | Name | Affiliation | 
 | :----------- | :----------------- |
+|Meredith McPhail | Arnold Foundation |
 |Ashley Zauderer | Templeton Foundation |
 |Huy Vo |City University of New York|
 |Meredith Lee | UC Berkeley|
