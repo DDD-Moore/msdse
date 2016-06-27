@@ -38,6 +38,11 @@ The intent of this inaugural Data Science Summit is to build connections and see
 
 | Name | Affiliation | 
 | :----------- | :----------------- |
+|Jeffrey Brock | Brown University|
+|Ugur Cetintemel | Brown University|
+|Mike Franklin | University of California, Berkeley|
+|Andrew Gelman | Columbia University|
+|Amber Boehnlein | Department of Energy|
 |Meredith McPhail | Arnold Foundation |
 |Ashley Zauderer | Templeton Foundation |
 |Huy Vo |City University of New York|
