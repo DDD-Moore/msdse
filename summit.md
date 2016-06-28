@@ -83,7 +83,7 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |Elliott Shore |Association of Research Libraries|
 |Kathleen McKeown|Columbia University|
 
-### Moore Data-Driven Discovery Investigators 
+### Moore Data-Driven Discovery Investigators & Lab Members
 
 | Name | Affiliation | 
 | :----------- | :----------------- |
@@ -102,6 +102,7 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |Laura Waller	|University of California Berkeley|
 |Ethan White	|University of Florida|
 |Daniel Himmelstein|University of Pennsylvania|
+|Roy Lederman|Princeton University|
 
 ### Confirmed Data Science Environment Attendees
 
