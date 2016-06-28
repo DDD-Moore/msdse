@@ -101,6 +101,7 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |Matthew Turk	|University of Illinois Urbana-Champaign|
 |Laura Waller	|University of California Berkeley|
 |Ethan White	|University of Florida|
+|Daniel Himmelstein|University of Pennsylvania|
 
 ### Confirmed Data Science Environment Attendees
 
