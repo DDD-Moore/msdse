@@ -38,6 +38,7 @@ The intent of this inaugural Data Science Summit is to build connections and see
 
 | Name | Affiliation | 
 | :----------- | :----------------- |
+|Jim Kurose |National Science Foundation|
 |Jeffrey Brock | Brown University|
 |Ugur Cetintemel | Brown University|
 |Mike Franklin | University of California, Berkeley|
