@@ -38,6 +38,7 @@ The intent of this inaugural Data Science Summit is to build connections and see
 
 | Name | Affiliation | 
 | :----------- | :----------------- |
+|Mark Cullen|Stanford University|
 |Jim Kurose |National Science Foundation|
 |Jeffrey Brock | Brown University|
 |Ugur Cetintemel | Brown University|
