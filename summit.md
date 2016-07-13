@@ -38,6 +38,7 @@ The intent of this inaugural Data Science Summit is to build connections and see
 
 | Name | Affiliation | 
 | :----------- | :----------------- |
+|Flip Korn|Google |
 |Wade Shen|DARPA|
 |Daniel Goroff |Sloan Foundation|
 |Mark Cullen|Stanford University|
