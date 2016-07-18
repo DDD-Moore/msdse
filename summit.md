@@ -110,6 +110,7 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |Roy Lederman|Princeton University|
 |Li-Hao Yeh| University of California Berkeley|
 |Brett Naul | University of California Berkeley|
+|Meagan Lang | University of Illinois Urbana-Champaign|
 
 ### Confirmed Data Science Environment Attendees
 
