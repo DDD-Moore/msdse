@@ -109,6 +109,7 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |Daniel Himmelstein|University of Pennsylvania|
 |Roy Lederman|Princeton University|
 |Li-Hao Yeh| University of California Berkeley|
+|Brett Naul | University of California Berkeley|
 
 ### Confirmed Data Science Environment Attendees
 
