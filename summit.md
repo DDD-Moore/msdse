@@ -127,7 +127,7 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |	Roy Lowrance	|	New York University	|
 |	Sam Bowman	|	New York University	|
 |	Sunandan Chakraborty	|	New York University	|
-|	todd gureckis	|	New York University	|
+|	Todd Gureckis	|	New York University	|
 |	Vicky Steeves	|	New York University	|
 |	Yann LeCun	|	New York University	|
 |Juliana Freire|New York University |
@@ -137,7 +137,7 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |	Carlos Fernandez-Granda	|	New York University	|
 |	David Hogg	|	New York University	|
 |	Emily Mathis	|	New York University	|
-|	jonathan nagler	|	New York University	|
+|	Jonathan Nagler	|	New York University	|
 |	Laura Noren	|	New York University	|
 |	Remi Rampin	|	New York University	|
 |	Roger Kingsepp	|	New York University	|
@@ -145,6 +145,8 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |	Vasant Dhar	|	New York University	|
 |	Ying Lu	|	New York University	|
 |	Heiko Mueller	|	New York University	|
+|	Stefan Karpinski	|	New York University	|
+|	Fernando Chirigati	|	New York University	|
 |	Ali Ferguson	|	University of California at Berkeley	|
 |	Carl Boettiger	|	University of California at Berkeley	|
 |	Chihoko Cullens	|	University of California at Berkeley	|
@@ -172,6 +174,7 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |	Nick Adams	|	University of California at Berkeley	|
 |	Robert Nadeau	|	University of California at Berkeley	|
 |	Anthony Suen	|	University of California at Berkeley	|
+|	Fatma Imamoglu	|	University of California at Berkeley	|
 |	Alexander Franks	|	University of Washington	|
 |	Ariel Rokem	|	University of Washington	|
 |	Bernease Herman	|	University of Washington	|
@@ -208,6 +211,7 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |	Jesse Piedford	|	University of Washington	|
 |	Robin Brooks	|	University of Washington	|
 |	Jenny Muilenburg	|	University of Washington	|
+|	Mario Juric	|	University of Washington	|
 
 
 _Image [from flickr by Daniel Mennerich](https://www.flickr.com/photos/danielmennerich/5738689951)_
