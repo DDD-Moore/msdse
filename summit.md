@@ -111,6 +111,12 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |Li-Hao Yeh| University of California Berkeley|
 |Brett Naul | University of California Berkeley|
 |Meagan Lang | University of Illinois Urbana-Champaign|
+|Molly Van Gordon |University of California Berkeley|
+|Gao Wang |University of Chicago|
+|Camille Scott |University of California Davis|
+|Guillaume Marcais|Carnegie Mellon University|
+|Alexander Ratner|Stanford University|
+|Judith Boldt|UT Southwestern Medical Center|
 
 ### Confirmed Data Science Environment Attendees
 
