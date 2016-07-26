@@ -117,6 +117,8 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |Guillaume Marcais|Carnegie Mellon University|
 |Alexander Ratner|Stanford University|
 |Judith Boldt|UT Southwestern Medical Center|
+|Michael O'Brien|North Carolina State University|
+|Kristina Riemer|University of Florida|
 
 ### Confirmed Data Science Environment Attendees
 
