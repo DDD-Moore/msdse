@@ -30,7 +30,7 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |15:30 - 17:00 |Breakouts around data science themes|
 |17:00 - 18:00 |Lightning talks + posters/demos|
 |18:00 - 18:30|Travel to reception location|
-|18:30 - 21:30|Reception with drinks and hors d'oeuvres|
+|18:30 - 21:30|Reception with drinks and hors d'oeuvres at [230 5th](http://www.230-fifth.com/)|
 
 ## Attendees
 
