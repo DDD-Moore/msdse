@@ -157,6 +157,7 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |	Heiko Mueller	|	New York University	|
 |	Stefan Karpinski	|	New York University	|
 |	Fernando Chirigati	|	New York University	|
+|	Afonso Bandeira	|	New York University	|
 |	Ali Ferguson	|	University of California at Berkeley	|
 |	Carl Boettiger	|	University of California at Berkeley	|
 |	Chihoko Cullens	|	University of California at Berkeley	|
@@ -185,6 +186,14 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |	Robert Nadeau	|	University of California at Berkeley	|
 |	Anthony Suen	|	University of California at Berkeley	|
 |	Fatma Imamoglu	|	University of California at Berkeley	|
+|	Rebecca Barter	|	University of California at Berkeley	|
+|	Nelle Varoquaux	|	University of California at Berkeley	|
+|	Orianna DeMasi	|	University of California at Berkeley	|
+|	Dmitriy Morozov	|	University of California at Berkeley	|
+|	Laura Nelson	|	University of California at Berkeley	|
+|	Chris Holdgraf	|	University of California at Berkeley	|
+|	Alexandra Paxton	|	University of California at Berkeley	|
+|	Saul Perlmutter	|	University of California at Berkeley	|
 |	Alexander Franks	|	University of Washington	|
 |	Ariel Rokem	|	University of Washington	|
 |	Bernease Herman	|	University of Washington	|
@@ -222,6 +231,7 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |	Robin Brooks	|	University of Washington	|
 |	Jenny Muilenburg	|	University of Washington	|
 |	Mario Juric	|	University of Washington	|
+|	Bill Howe	|	University of Washington	|
 
 
 _Image [from flickr by Daniel Mennerich](https://www.flickr.com/photos/danielmennerich/5738689951)_
