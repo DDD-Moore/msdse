@@ -87,6 +87,7 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |Meredith Broussard|New York University|
 |Elliott Shore |Association of Research Libraries|
 |Kathleen McKeown|Columbia University|
+|Debra Perez|Moore Foundation|
 
 ### Moore Data-Driven Discovery Investigators & Lab Members
 
