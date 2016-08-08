@@ -96,7 +96,6 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |Joshua Bloom	|University of California Berkeley  |
 |Titus Brown	|University of California Davis|
 |Casey Greene	|University of Pennsylvania |
-|Jeff Heer |University of Washington|
 |Carl Kingsford	|Carnegie Mellon University|
 |Laurel Larsen	|University of California Berkeley|
 |Chris Re	|Stanford University|
@@ -120,6 +119,7 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |Judith Boldt|UT Southwestern Medical Center|
 |Michael O'Brien|North Carolina State University|
 |Kristina Riemer|University of Florida|
+|Gregory Way|University of Pennsylvania|
 
 ### Confirmed Data Science Environment Attendees
 
