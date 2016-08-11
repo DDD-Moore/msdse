@@ -88,6 +88,8 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |Elliott Shore |Association of Research Libraries|
 |Kathleen McKeown|Columbia University|
 |Debra Perez|Moore Foundation|
+|Chid Apte|IBM|
+|Lesley Park|Stanford University|
 
 ### Moore Data-Driven Discovery Investigators & Lab Members
 
@@ -120,6 +122,7 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |Michael O'Brien|North Carolina State University|
 |Kristina Riemer|University of Florida|
 |Gregory Way|University of Pennsylvania|
+|Arvind Satyanarayan|Stanford University|
 
 ### Confirmed Data Science Environment Attendees
 
