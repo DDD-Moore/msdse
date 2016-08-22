@@ -123,6 +123,8 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |Kristina Riemer|University of Florida|
 |Gregory Way|University of Pennsylvania|
 |Arvind Satyanarayan|Stanford University|
+|David Robinson |Stack Overflow|
+|Julia Metzner |Moore Foundation|
 
 ### Confirmed Data Science Environment Attendees
 
