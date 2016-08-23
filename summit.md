@@ -92,6 +92,7 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |Lesley Park|Stanford University|
 |David Robinson |Stack Overflow|
 |Julia Metzner |Moore Foundation|
+Debra Williams|Pearson|
 
 ### Moore Data-Driven Discovery Investigators & Lab Members
 
