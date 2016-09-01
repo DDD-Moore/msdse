@@ -93,7 +93,7 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |David Robinson |Stack Overflow|
 |Julia Metzner |Moore Foundation|
 |Debra Williams|Pearson|
-|Max Ogden |Dat|
+|Joe Hand |Dat|
 
 ### Moore Data-Driven Discovery Investigators & Lab Members
 
