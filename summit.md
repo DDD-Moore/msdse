@@ -32,6 +32,14 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |18:00 - 18:30|Travel to reception location|
 |18:30 - 21:30|Reception with drinks and hors d'oeuvres at [230 5th](http://www.230-fifth.com/)|
 
+## Lodging options near NYU
+
+* [Washington Square](http://washingtonsquarehotel.com/)
+* [Four Points Sheraton Soho](http://www.fourpointssohovillage.com/)
+* [Courtyard Marriott Soho](http://www.marriott.com/hotels/travel/nycmt-courtyard-new-york-manhattan-soho/)
+* [Bowery](http://www.theboweryhotel.com/)
+* [Marlton](http://marltonhotel.com/) 
+
 ## Attendees
 
 ### Confirmed Invited Guests
@@ -95,6 +103,7 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |Debra Williams|Pearson|
 |Joe Hand |Dat|
 |Kunihiko Niwa|Japan Science and Technology|
+|Alyssa Goodman|Harvard|
 
 ### Moore Data-Driven Discovery Investigators & Lab Members
 
