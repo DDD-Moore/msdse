@@ -94,6 +94,7 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |Julia Metzner |Moore Foundation|
 |Debra Williams|Pearson|
 |Joe Hand |Dat|
+|Kunihiko Niwa|Japan Science and Technology|
 
 ### Moore Data-Driven Discovery Investigators & Lab Members
 
