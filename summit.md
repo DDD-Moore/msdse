@@ -78,7 +78,6 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |Alex Chohlas-Wood |New York Police Department|
 |David Spergel | Princeton University |
 |Alex Szalay |Johns Hopkins University|
-|Tony Hey |University of Washington |
 |Susan Davidson |University of Pennsylvania |
 |Enrico	Bertini |New York University|
 |Jeremy	Freeman |Janelia Research Campus|
