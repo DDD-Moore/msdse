@@ -41,7 +41,7 @@ image:
 
 - NYU: [Claudio Silva](mailto:csilva@nyu.edu)
 - UCB: [St&eacute;fan Van der Walt](mailto:stefanv@berkeley.edu)
-- UW: [Bill Howe](mailto:billhowe@cs.washington.edu)
+- UW: [Jake Vanderplas](mailto:jakevdp@uw.edu)
 
 **Reproducibility and Open Science**
 
