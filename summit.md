@@ -103,6 +103,11 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |Joe Hand |Dat|
 |Kunihiko Niwa|Japan Science and Technology|
 |Alyssa Goodman|Harvard|
+|Jonathan Cornelissen	|Data Camp|
+|Dan Katz|University of Illinois|
+|Christian Borgs|Microsoft Research|
+|Jennifer Chayes|Microsoft Research|
+|Sharon Gillett|Microsoft Research|
 
 ### Moore Data-Driven Discovery Investigators & Lab Members
 
