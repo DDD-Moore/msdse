@@ -17,20 +17,34 @@ This Summit is part of a week of activities for Data Science grantees from the [
 ![week pic](/images/week.jpg)
 
 
-We expect over 200 people for an event that includes lunch and goes through an early evening cocktail and appetizer hour. The summit will include demonstrations of new and evolving data science projects and technologies, “birds of a feather” breakout discussions, and two or more plenary discussions throughout the day.
+We expect over 200 people for an event that includes lunch and goes through an early evening cocktail and appetizer hour. The summit will include demonstrations and lightning talks on new and evolving data science projects and technologies, plus keynote presentations and a panel on data science careers.
 
 The intent of this inaugural Data Science Summit is to build connections and seed new collaborations between the large network of data science practitioners involved in data-intensive research in the United States. We envision this event will continue to grow in future years, so for this initial year, we have limited the number of invited participants to allow for a more focused engagement. 
 
-## Rough Tentative Agenda
+## Tentative Agenda
 
-|11:30 - 13:00 |Welcome and Lunch|
-|13:00 - 14:00 |Lighting talks + posters/demos|
-|14:00 - 14:30 |Break|
-|14:30 - 15:30 |Panel on Career paths|
-|15:30 - 17:00 |Breakouts around data science themes|
-|17:00 - 18:00 |Lightning talks + posters/demos|
-|18:00 - 18:30|Travel to reception location|
-|18:30 - 21:30|Reception with drinks and hors d'oeuvres at [230 5th](http://www.230-fifth.com/)|
+|Time |Title |Details|
+| :----------- | :----------------- | :--------|
+|11:30 - 13:00 |Catered lunch| |
+|13:00 - 13:15 |Opening remarks|NYU Provost|
+|13:15 - 14:35 |Overview of MSDSE|Chris Mentzel & Josh Greenberg|
+|13:35 - 14:20 |Panel on career paths|TBD |
+|14:20 - 14:45 |Break| |
+|14:45 - 15:45 |Lightning talks + poster/demo viewing| |
+|15:45 - 16:05 |Keynote| |
+|16:05 - 17:30 |Lightning talks + poster/demo viewing| |
+|17:30 - 17:50 |Keynote| |
+|17:50 - 18:00 |Closing remarks|MSDSE leadership |
+|18:00 - 19:00|Travel to reception location|
+|19:00 - 21:30|Reception with drinks and hors d'oeuvres | [230 5th](http://www.230-fifth.com/)|
+
+## Attendees
+
+An up-to-date list of confirmed attendees is available [here](https://github.com/DDD-Moore/dse/blob/master/wed-summit-attendees.csv). Don't see your name or have an edit? Please submit a pull request or [email us](mailto:carlystrasser@gmail.com).
+
+## Code of Conduct
+
+Please review the [Summit Code of Conduct](https://github.com/DDD-Moore/dse/blob/master/code-of-conduct.md).
 
 ## Lodging options near NYU
 
@@ -40,9 +54,7 @@ The intent of this inaugural Data Science Summit is to build connections and see
 * [Bowery](http://www.theboweryhotel.com/)
 * [Marlton](http://marltonhotel.com/) 
 
-## Attendees
-
-### Confirmed Invited Guests
+<!-- ### Confirmed Invited Guests
 
 | Name | Affiliation | 
 | :----------- | :----------------- |
@@ -253,6 +265,6 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |	Jenny Muilenburg	|	University of Washington	|
 |	Mario Juric	|	University of Washington	|
 |	Bill Howe	|	University of Washington	|
-
+-->
 
 _Image [from flickr by Daniel Mennerich](https://www.flickr.com/photos/danielmennerich/5738689951)_
