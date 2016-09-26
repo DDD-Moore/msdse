@@ -17,7 +17,7 @@ This Summit is part of a week of activities for Data Science grantees from the [
 ![week pic](/images/week.jpg)
 
 
-We expect over 200 people for an event that includes lunch and goes through an early evening cocktail and appetizer hour. The summit will include demonstrations and lightning talks on new and evolving data science projects and technologies, plus keynote presentations and a panel on data science careers.
+We expect [over 200 people](https://github.com/DDD-Moore/dse/blob/master/wed-summit-attendees.csv) for an event that includes lunch and goes through an early evening cocktail and appetizer hour. The summit will include demonstrations and lightning talks on new and evolving data science projects and technologies, plus keynote presentations and a panel on data science careers.
 
 The intent of this inaugural Data Science Summit is to build connections and seed new collaborations between the large network of data science practitioners involved in data-intensive research in the United States. We envision this event will continue to grow in future years, so for this initial year, we have limited the number of invited participants to allow for a more focused engagement. 
 
@@ -40,7 +40,7 @@ The intent of this inaugural Data Science Summit is to build connections and see
 
 ## Attendees
 
-An up-to-date list of confirmed attendees is available [here](https://github.com/DDD-Moore/dse/blob/master/wed-summit-attendees.csv). Don't see your name or have an edit? Please submit a pull request or [email us](mailto:carlystrasser@gmail.com).
+This event is by invitation only. An up-to-date list of confirmed attendees is available [here](https://github.com/DDD-Moore/dse/blob/master/wed-summit-attendees.csv). Have an edit or can't make it after all? Please [email us](mailto:carlystrasser@gmail.com).
 
 ## Code of Conduct
 
