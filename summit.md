@@ -31,7 +31,7 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |13:35 - 14:20 |Panel on career paths|TBD |
 |14:20 - 14:45 |Break| |
 |14:45 - 15:45 |Lightning talks + poster/demo viewing| |
-|15:45 - 16:05 |Keynote| |
+|15:45 - 16:05 |Keynote: "Democratizing data skills to advance data-driven-discovery"|Tracy Teal, Executive Director of [Data Carpentry](http://www.datacarpentry.org/) |
 |16:05 - 17:30 |Lightning talks + poster/demo viewing| |
 |17:30 - 17:50 |Keynote| |
 |17:50 - 18:00 |Closing remarks|MSDSE leadership |
