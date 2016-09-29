@@ -33,7 +33,7 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |14:45 - 15:45 |Lightning talks + poster/demo viewing| |
 |15:45 - 16:05 |Keynote: "Democratizing data skills to advance data-driven-discovery"|Tracy Teal, Executive Director of [Data Carpentry](http://www.datacarpentry.org/) |
 |16:05 - 17:30 |Lightning talks + poster/demo viewing| |
-|17:30 - 17:50 |Keynote| |
+|17:30 - 17:50 |Keynote|[Chris R&eacute;](http://cs.stanford.edu/people/chrismre/), Stanford University |
 |17:50 - 18:00 |Closing remarks|MSDSE leadership |
 |18:00 - 19:00|Travel to reception location|
 |19:00 - 21:30|Reception with drinks and hors d'oeuvres | [230 5th](http://www.230-fifth.com/)|
