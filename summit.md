@@ -8,7 +8,7 @@ image:
 
 ### Wednesday October 26, 11:30 am - 9:30 pm
 
-**Location:** [Rosenthal Pavilion](https://www.nyu.edu/community/conference-event-services/facilities/large/rosenthal-pavilion.html), 60 Washington Sq S, 10th Floor, New York NY 10012 (Event will run from 11:30 - 6:00; Rooftop reception following at [230 5th](http://www.230-fifth.com/))
+**Location:** [Rosenthal Pavilion](https://www.nyu.edu/community/conference-event-services/facilities/large/rosenthal-pavilion.html), 60 Washington Sq S, 10th Floor, New York NY 10012 (Event will run from 11:30 - 6:00; Rooftop reception following at [230 5th](http://www.230-fifth.com/) - 21+ only)
 
 The [Data Science Environments Partnership](/about) is hosting a one-day Data Science Summit in NYC on 26 October 2016. This summit will bring together data science practitioners in a broad range of fields, from life, physical, and social sciences to the computational, statistical, and mathematical disciplines, to explore what it means to advance data science for research.
 
@@ -36,7 +36,7 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |17:30 - 17:50 |Keynote|[Chris R&eacute;](http://cs.stanford.edu/people/chrismre/), Stanford University |
 |17:50 - 18:00 |Closing remarks|MSDSE leadership |
 |18:00 - 19:00|Travel to reception location|
-|19:00 - 21:30|Reception with drinks and hors d'oeuvres | [230 5th](http://www.230-fifth.com/)|
+|19:00 - 21:30|Reception with drinks and hors d'oeuvres | [230 5th](http://www.230-fifth.com/) - 21+ only|
 
 ## Attendees
 
