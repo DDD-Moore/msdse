@@ -40,7 +40,7 @@ The intent of this inaugural Data Science Summit is to build connections and see
 | |LT5: _Streaming Data Analysis for Highly Correlated Events_|Kerstin Kleese van Dam|
 | |LT6: _Linked-View Visualization of High-Dimensional Data in glue_|Alyssa Goodman|
 | |LT7: _Data Polygamy: The Many-Many Relationships among Urban Spatio-Temporal Data Sets_|Fernando Chirigati|
-|17:30 - 17:50 |Keynote|[Chris R&eacute;](http://cs.stanford.edu/people/chrismre/), Stanford University |
+|17:30 - 17:50 |Keynote:_DeepDive and Snorkel: Dark Data Systems to Answer Macroscopic Questions_|[Chris R&eacute;](http://cs.stanford.edu/people/chrismre/), Stanford University |
 |17:50 - 18:00 |Closing remarks|MSDSE leadership |
 |18:00 - 19:00|Travel to reception location|
 |19:00 - 21:30|Reception with drinks and hors d'oeuvres | [230 5th](http://www.230-fifth.com/) - 21+ only|
