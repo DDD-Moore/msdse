@@ -21,18 +21,25 @@ We expect [over 200 people](https://github.com/DDD-Moore/dse/blob/master/wed-sum
 
 The intent of this inaugural Data Science Summit is to build connections and seed new collaborations between the large network of data science practitioners involved in data-intensive research in the United States. We envision this event will continue to grow in future years, so for this initial year, we have limited the number of invited participants to allow for a more focused engagement. 
 
-## Tentative Agenda
+## Agenda
 
 |Time |Title |Details|
 | :----------- | :----------------- | :--------|
 |11:30 - 13:00 |Catered lunch| |
-|13:00 - 13:15 |Opening remarks|NYU Provost|
-|13:15 - 14:35 |Overview of MSDSE|Chris Mentzel & Josh Greenberg|
-|13:35 - 14:20 |Panel on career paths|TBD |
-|14:20 - 14:45 |Break| |
-|14:45 - 15:45 |Lightning talks + poster/demo viewing| |
-|15:45 - 16:05 |Keynote: "Democratizing data skills to advance data-driven-discovery"|Tracy Teal, Executive Director of [Data Carpentry](http://www.datacarpentry.org/) |
-|16:05 - 17:30 |Lightning talks + poster/demo viewing| |
+|13:00 - 13:10 |Opening remarks|NYU Provost|
+|13:10 - 13:35 |Overview of MSDSE|Chris Mentzel & Josh Greenberg|
+|13:35 - 13:50 |DSE Highlights|MSDSE Leadership|
+|13:50 - 14:35 |Panel Discussion: Data Science Careers|Moderator: Carly Strasser|
+|14:35 - 15:45 |Lightning talks & poster/demo viewing|[List of talks, posters, & demos](https://github.com/DDD-Moore/dse/blob/master/demo-poster-talk-list.csv)|
+| |LT1: _Altair: Declarative Statistical Visualization in Python_ |Brian Granger|
+| |LT2: _Phinch: An interactive, exploratory data visualization framework for –Omic datasets_|Holly Bik|
+| |LT3: _AI Requires Social Scientists and Crowds_|Nick Adams|
+|15:45 - 16:05 |Keynote: _Democratizing data skills to advance data-driven-discovery_|Tracy Teal, Executive Director of [Data Carpentry](http://www.datacarpentry.org/) |
+|16:05 - 17:30 |Lightning talks & poster/demo viewing|[List of talks, posters, & demos](https://github.com/DDD-Moore/dse/blob/master/demo-poster-talk-list.csv)|
+| |LT4: _The Large Synoptic Survey Telescope: Ushering the Age of Data-driven Astronomy_|Mario Juric|
+| |LT5: _Streaming Data Analysis for Highly Correlated Events_|Kerstin Kleese van Dam|
+| |LT6: _Linked-View Visualization of High-Dimensional Data in glue_|Alyssa Goodman|
+| |LT7: _Data Polygamy: The Many-Many Relationships among Urban Spatio-Temporal Data Sets_|Fernando Chirigati|
 |17:30 - 17:50 |Keynote|[Chris R&eacute;](http://cs.stanford.edu/people/chrismre/), Stanford University |
 |17:50 - 18:00 |Closing remarks|MSDSE leadership |
 |18:00 - 19:00|Travel to reception location|
