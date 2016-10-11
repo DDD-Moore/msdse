@@ -68,7 +68,7 @@ Please review the [Summit Code of Conduct](https://github.com/DDD-Moore/dse/blob
 |Holly Bik|	Phinch: An interactive, exploratory data visualization framework for -Omic datasets|
 |Fernando Chirigati	|	Data Polygamy: The Many-Many Relationships among Urban Spatio-Temporal Data Sets|
 |Alyssa Goodman|	Linked-View Visualization of High-Dimensional Data in glue|
-|TBD|	Altair: Declarative Statistical Visualization in Python|
+|Jake VanderPlas|	Altair: Declarative Statistical Visualization in Python|
 |Mario Juric|	The Large Synoptic Survey Telescope: Ushering the Age of Data-driven Astronomy|
 |Kerstin Kleese van Dam	|	Streaming Data Analysis for Highly Correlated Events|
 
