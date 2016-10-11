@@ -28,10 +28,16 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |13:10 - 13:35 |Overview of MSDSE|Chris Mentzel & Josh Greenberg|
 |13:35 - 13:50 |DSE Highlights|MSDSE Leadership|
 |13:50 - 14:35 |Panel Discussion: Data Science Careers|Moderator: Carly Strasser|
+| |_Jennifer Chayes, Microsoft Research_||
+| |_Simon Hettrick, SSI_||
+| |_Ed Lazowska, UW_||
+| |_Laura Noren, NYU_||
+| |_Lauren Ponisio, UC Berkeley_||
+| |_Karthik Ram, UC Berkeley_||
 |14:35 - 15:45 |Lightning talks & poster/demo viewing|Full list below|
 |15:45 - 16:05 |Keynote: _Democratizing data skills to advance data-driven-discovery_|Tracy Teal, Executive Director of [Data Carpentry](http://www.datacarpentry.org/) |
 |16:05 - 17:30 |Lightning talks & poster/demo viewing|Full list below|
-|17:30 - 17:50 |Keynote:_DeepDive and Snorkel: Dark Data Systems to Answer Macroscopic Questions_|[Chris R&eacute;](http://cs.stanford.edu/people/chrismre/), Stanford University |
+|17:30 - 17:50 |Keynote: _DeepDive and Snorkel: Dark Data Systems to Answer Macroscopic Questions_|[Chris R&eacute;](http://cs.stanford.edu/people/chrismre/), Stanford University |
 |17:50 - 18:00 |Closing remarks|MSDSE leadership |
 |18:00 - 19:00|Travel to reception location|
 |19:00 - 21:30|Reception with drinks and hors d'oeuvres | [230 5th](http://www.230-fifth.com/) - 21+ only|
