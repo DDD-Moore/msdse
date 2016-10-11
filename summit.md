@@ -77,7 +77,7 @@ Please review the [Summit Code of Conduct](https://github.com/DDD-Moore/dse/blob
 |Name|Title|
 |:-- |:-- |
 |Rahul Biswas	|	TWINKLES	|
-|Juliana Freire	|	Domain Discovery on the Web	|
+|Yamuna Kirshnamurthy & Sonia Castelo	|	Domain Discovery on the Web	|
 |Jason Grout	|	JupyterLab: The Next Generation of Jupyter	|
 |Joe Hand|	Data Publishing & Persistence with Decentralized Tools	|
 |Joseph Hellerstein	|	Reinventing spreadsheets for scientists	|
