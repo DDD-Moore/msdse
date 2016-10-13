@@ -86,7 +86,6 @@ Please review the [Summit Code of Conduct](https://github.com/DDD-Moore/dse/blob
 |Remi Rampin	|	Preserving and Reproducing Research with ReproZip	|
 |Matthew Rocklin	|	Visualizing Interactive computations with Dask	|
 |Lenny Teytelman	|	Capturing the knowledge that perishes because we do not publish it.	|
-|Ethan White	|	The Data Retriever: A package manager for other peoples data	|
 
 ### Posters
 
@@ -124,6 +123,7 @@ Please review the [Summit Code of Conduct](https://github.com/DDD-Moore/dse/blob
 |	Nancy Wang		|	Multimodal Neural Decoding	|
 |	Greg Way		|	The Research Parasite Awards	|
 |	Jamie Whitacre		|	Jupyter	|
+|Ethan White	|	The Data Retriever: A package manager for other peoples data	|
 |	Eleni Zacharatou		|	Data Management Challenges in Brain Simulations	|
 
 ### More info on posters & demos
