@@ -35,8 +35,15 @@ The intent of this inaugural Data Science Summit is to build connections and see
 | |_Lauren Ponisio, UC Berkeley_||
 | |_Karthik Ram, UC Berkeley_||
 |14:35 - 15:45 |Lightning talks & poster/demo viewing|Full list below|
+||LT1. Jake VanderPlas:	_Altair: Declarative Statistical Visualization in Python_||
+||LT2. Holly Bik: _Phinch: An interactive, exploratory data visualization framework for -Omic datasets_||
+||LT3. Nick Adams: _AI Requires Social Scientists and Crowds_||
 |15:45 - 16:05 |Keynote: _Democratizing data skills to advance data-driven-discovery_|Tracy Teal, Executive Director of [Data Carpentry](http://www.datacarpentry.org/) |
 |16:05 - 17:30 |Lightning talks & poster/demo viewing|Full list below|
+||LT4. Fernando Chirigati:	_Data Polygamy: The Many-Many Relationships among Urban Spatio-Temporal Data Sets_||
+||LT5. Alyssa Goodman: _Linked-View Visualization of High-Dimensional Data in glue_||
+||LT6. Mario Juric: _The Large Synoptic Survey Telescope: Ushering the Age of Data-driven Astronomy_||
+||LT7. Kerstin Kleese van Dam: _Streaming Data Analysis for Highly Correlated Events_||
 |17:30 - 17:50 |Keynote: _DeepDive and Snorkel: Dark Data Systems to Answer Macroscopic Questions_|[Chris R&eacute;](http://cs.stanford.edu/people/chrismre/), Stanford University |
 |17:50 - 18:00 |Closing remarks|MSDSE leadership |
 |18:00 - 19:00|Travel to reception location|
@@ -58,19 +65,7 @@ Please review the [Summit Code of Conduct](https://github.com/DDD-Moore/dse/blob
 * [Bowery](http://www.theboweryhotel.com/)
 * [Marlton](http://marltonhotel.com/) 
 
-## Lightning talks, posters, and demos
-
-### Lightning Talks
-
-|Name|Title|
-|:-- |:-- |
-|Nick Adams|	AI Requires Social Scientists and Crowds|
-|Holly Bik|	Phinch: An interactive, exploratory data visualization framework for -Omic datasets|
-|Fernando Chirigati	|	Data Polygamy: The Many-Many Relationships among Urban Spatio-Temporal Data Sets|
-|Alyssa Goodman|	Linked-View Visualization of High-Dimensional Data in glue|
-|Jake VanderPlas|	Altair: Declarative Statistical Visualization in Python|
-|Mario Juric|	The Large Synoptic Survey Telescope: Ushering the Age of Data-driven Astronomy|
-|Kerstin Kleese van Dam	|	Streaming Data Analysis for Highly Correlated Events|
+## Posters and demos
 
 ### Demos
 
@@ -95,6 +90,7 @@ Please review the [Summit Code of Conduct](https://github.com/DDD-Moore/dse/blob
 |	Rebecca	Barter		|	Superheat: an R package	|
 |	C. Titus	Brown		|	Advanced training and collaboration hackathons	|
 |	Robert	Brunner		|	Data Science at Illinois	|
+| Fernando Chirigati| Data Polygamy: The Many-Many Relationships among Urban Spatio-Temporal Data Sets|
 |	Chihoko	Cullens		|	Data Science Demands in Academic Job Advertisements	|
 |	Casey Greene		|	Reproducible computational science. Automatically.	|
 |	Andrew Guess		|	Media Choice and Moderation: Evidence from Online Tracking Data	|
