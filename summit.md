@@ -28,12 +28,12 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |13:10 - 13:35 |Overview of MSDSE|Chris Mentzel & Josh Greenberg|
 |13:35 - 13:50 |DSE Highlights|MSDSE Leadership|
 |13:50 - 14:35 |Panel Discussion: Data Science Careers|Moderator: Carly Strasser|
-| |_Jennifer Chayes, Microsoft Research_||
-| |_Simon Hettrick, SSI_||
-| |_Ed Lazowska, UW_||
-| |_Laura Noren, NYU_||
-| |_Lauren Ponisio, UC Berkeley_||
-| |_Karthik Ram, UC Berkeley_||
+| [|_Jennifer Chayes, Microsoft Research_](http://research.microsoft.com/en-us/um/people/jchayes/)||
+| |[_Simon Hettrick, SSI_](https://www.software.ac.uk/about/people/simon-hettrick)||
+| |[_Ed Lazowska, UW_](https://homes.cs.washington.edu/~lazowska/)||
+| |[_Laura Noren, NYU_](https://about.me/lauranoren)||
+| |[_Lauren Ponisio, UC Berkeley_](https://bids.berkeley.edu/people/lauren-ponisio)||
+| |[_Karthik Ram, UC Berkeley_](http://karthik.io/)||
 |14:35 - 15:45 |Lightning talks & poster/demo viewing|Full list below|
 ||LT1. Jake VanderPlas:	_Altair: Declarative Statistical Visualization in Python_||
 ||LT2. Holly Bik: _Phinch: An interactive, exploratory data visualization framework for -Omic datasets_||
