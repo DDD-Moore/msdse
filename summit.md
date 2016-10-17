@@ -95,6 +95,7 @@ Please review the [Summit Code of Conduct](https://github.com/DDD-Moore/dse/blob
 |	Casey Greene		|	Reproducible computational science. Automatically.	|
 |	Andrew Guess		|	Media Choice and Moderation: Evidence from Online Tracking Data	|
 |	Todd Gureckis		|	Using computational cognitive neuroscience to enhance adaptive instruction technologies	|
+|Robert Haines||Same but different. Careers in data science and research software engineering|
 |	Daniel Himmelstein		|	Hetionet	|
 |	Chris Holdgraf		|	Neural encoding models to study the brain's response to natural speech	|
 |	Felipe Horta		|	Urban Canyons Framework	|
