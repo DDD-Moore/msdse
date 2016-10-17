@@ -28,7 +28,7 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |13:10 - 13:35 |Overview of MSDSE|Chris Mentzel & Josh Greenberg|
 |13:35 - 13:50 |DSE Highlights|MSDSE Leadership|
 |13:50 - 14:35 |Panel Discussion: Data Science Careers|Moderator: Carly Strasser|
-| [|_Jennifer Chayes, Microsoft Research_](http://research.microsoft.com/en-us/um/people/jchayes/)||
+| |[_Jennifer Chayes, Microsoft Research_](http://research.microsoft.com/en-us/um/people/jchayes/)||
 | |[_Simon Hettrick, SSI_](https://www.software.ac.uk/about/people/simon-hettrick)||
 | |[_Ed Lazowska, UW_](https://homes.cs.washington.edu/~lazowska/)||
 | |[_Laura Noren, NYU_](https://about.me/lauranoren)||
