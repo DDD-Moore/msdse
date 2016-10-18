@@ -23,31 +23,31 @@ The intent of this inaugural Data Science Summit is to build connections and see
 
 |Time |Title |Details|
 | :------------------ | :------------- | :--|
-|11:30 - 13:00 |Catered lunch| |
-|13:00 - 13:10 |Opening remarks|NYU Provost|
-|13:10 - 13:35 |Overview of MSDSE|Chris Mentzel & Josh Greenberg|
-|13:35 - 13:50 |DSE Highlights|MSDSE Leadership|
-|13:50 - 14:35 |Panel Discussion: Data Science Careers|Moderator: Carly Strasser|
+|11:30 |Catered lunch| |
+|13:00 |Opening remarks|NYU Provost|
+|13:10 |Overview of MSDSE|Chris Mentzel & Josh Greenberg|
+|13:35 |DSE Highlights|MSDSE Leadership|
+|13:50 |Panel Discussion: Data Science Careers|Moderator: Carly Strasser|
 | |[_Jennifer Chayes, Microsoft Research_](http://research.microsoft.com/en-us/um/people/jchayes/)||
 | |[_Simon Hettrick, SSI_](https://www.software.ac.uk/about/people/simon-hettrick)||
 | |[_Ed Lazowska, UW_](https://homes.cs.washington.edu/~lazowska/)||
 | |[_Laura Noren, NYU_](https://about.me/lauranoren)||
 | |[_Lauren Ponisio, UC Berkeley_](https://bids.berkeley.edu/people/lauren-ponisio)||
 | |[_Karthik Ram, UC Berkeley_](http://karthik.io/)||
-|14:35 - 15:45 |Lightning talks & poster/demo viewing|Full list below|
+|14:35 |Lightning talks & poster/demo viewing|Full list below|
 ||LT1. Jake VanderPlas:	_Altair: Declarative Statistical Visualization in Python_||
 ||LT2. Holly Bik: _Phinch: An interactive, exploratory data visualization framework for -Omic datasets_||
 ||LT3. [Nick Adams](https://bids.berkeley.edu/people/nick-adams): _AI Requires Social Scientists and Crowds_||
-|15:45 - 16:05 |Keynote: _Democratizing data skills to advance data-driven-discovery_|Tracy Teal, Executive Director of [Data Carpentry](http://www.datacarpentry.org/) |
-|16:05 - 17:30 |Lightning talks & poster/demo viewing|Full list below|
+|15:45 |Keynote: _Democratizing data skills to advance data-driven-discovery_|Tracy Teal, Executive Director of [Data Carpentry](http://www.datacarpentry.org/) |
+|16:05 |Lightning talks & poster/demo viewing|Full list below|
 ||LT4. [Fernando Chirigati](http://fchirigati.com):	_Data Polygamy: The Many-Many Relationships among Urban Spatio-Temporal Data Sets_||
 ||LT5. Alyssa Goodman: [_Linked-View Visualization of High-Dimensional Data in glue_](http://glueviz.org)||
 ||LT6. Mario Juric: [_The Large Synoptic Survey Telescope: Ushering the Age of Data-driven Astronomy_](http://lsst.org)||
 ||LT7. [Kerstin Kleese van Dam](http://www.bnl.gov/compsci/): _Streaming Data Analysis for Highly Correlated Events_||
 |17:30 - 17:50 |Keynote: _DeepDive and Snorkel: Dark Data Systems to Answer Macroscopic Questions_|[Chris R&eacute;](http://cs.stanford.edu/people/chrismre/), Stanford University |
-|17:50 - 18:00 |Closing remarks|MSDSE leadership |
-|18:00 - 19:00|Travel to reception location|
-|19:00 - 21:30|Reception with drinks and hors d'oeuvres | [230 5th](http://www.230-fifth.com/) - 21+ only|
+|17:50  |Closing remarks|MSDSE leadership |
+|18:00 |Travel to reception location|
+|19:00 |Reception with drinks and hors d'oeuvres | [230 5th](http://www.230-fifth.com/) - 21+ only|
 
 ## Attendees
 
