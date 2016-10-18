@@ -22,7 +22,7 @@ The intent of this inaugural Data Science Summit is to build connections and see
 ## Agenda
 
 |Time |Title |Details|
-| :----------- | :----------------- | :--------|
+| :------------------ | :------------- | :--|
 |11:30 - 13:00 |Catered lunch| |
 |13:00 - 13:10 |Opening remarks|NYU Provost|
 |13:10 - 13:35 |Overview of MSDSE|Chris Mentzel & Josh Greenberg|
