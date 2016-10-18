@@ -42,8 +42,8 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |16:05 - 17:30 |Lightning talks & poster/demo viewing|Full list below|
 ||LT4. [Fernando Chirigati](http://fchirigati.com):	_Data Polygamy: The Many-Many Relationships among Urban Spatio-Temporal Data Sets_||
 ||LT5. Alyssa Goodman: [_Linked-View Visualization of High-Dimensional Data in glue_](http://glueviz.org)||
-||LT6. Mario Juric: [_The Large Synoptic Survey Telescope: Ushering the Age of Data-driven Astronomy_||
-||LT7. [Kerstin Kleese van Dam](http://www.bnl.gov/compsci/): _Streaming Data Analysis for Highly Correlated Events_](http://lsst.org)||
+||LT6. Mario Juric: [_The Large Synoptic Survey Telescope: Ushering the Age of Data-driven Astronomy_](http://lsst.org)||
+||LT7. [Kerstin Kleese van Dam](http://www.bnl.gov/compsci/): [_Streaming Data Analysis for Highly Correlated Events_||
 |17:30 - 17:50 |Keynote: _DeepDive and Snorkel: Dark Data Systems to Answer Macroscopic Questions_|[Chris R&eacute;](http://cs.stanford.edu/people/chrismre/), Stanford University |
 |17:50 - 18:00 |Closing remarks|MSDSE leadership |
 |18:00 - 19:00|Travel to reception location|
@@ -95,7 +95,7 @@ Please review the [Summit Code of Conduct](https://github.com/DDD-Moore/dse/blob
 |	Casey Greene		|	Reproducible computational science. Automatically.	|
 |	Andrew Guess		|	Media Choice and Moderation: Evidence from Online Tracking Data	|
 |	Todd Gureckis		|	Using computational cognitive neuroscience to enhance adaptive instruction technologies	|
-|Robert Haines||Same but different. Careers in data science and research software engineering|
+|Robert Haines|Same but different. Careers in data science and research software engineering|
 |	Daniel Himmelstein		|	Hetionet	|
 |	Chris Holdgraf		|	Neural encoding models to study the brain's response to natural speech	|
 |	Felipe Horta		|	Urban Canyons Framework	|
