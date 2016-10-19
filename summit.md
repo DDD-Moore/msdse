@@ -24,8 +24,8 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |Time |Title |Details|
 | :------------------ | :------------- | :--|
 |11:30 |Catered lunch| |
-|13:00 |Opening remarks|NYU Provost|
-|13:10 |Overview of MSDSE|Chris Mentzel & Josh Greenberg|
+|13:00 |Opening remarks|Dr. Katherine Fleming, NYU Provost|
+|13:10 |Overview of MSDSE|Chris Mentzel (Moore) & Josh Greenberg (Sloan)|
 |13:35 |DSE Highlights|MSDSE Leadership|
 |13:50 |Panel Discussion: Data Science Careers|Moderator: Carly Strasser|
 | |[_Jennifer Chayes, Microsoft Research_](http://research.microsoft.com/en-us/um/people/jchayes/)||
@@ -45,7 +45,7 @@ The intent of this inaugural Data Science Summit is to build connections and see
 ||LT6. Mario Juric: [_The Large Synoptic Survey Telescope: Ushering the Age of Data-driven Astronomy_](http://lsst.org)||
 ||LT7. [Kerstin Kleese van Dam](http://www.bnl.gov/compsci/): _Streaming Data Analysis for Highly Correlated Events_||
 |17:30 |Keynote: _DeepDive and Snorkel: Dark Data Systems to Answer Macroscopic Questions_|[Chris R&eacute;](http://cs.stanford.edu/people/chrismre/), Stanford University |
-|17:50  |Closing remarks|MSDSE leadership |
+|17:50  |Closing remarks|Juliana Freire, NYU |
 |18:00 |Travel to reception location|
 |19:00 |Reception with drinks and hors d'oeuvres | [230 5th](http://www.230-fifth.com/) - 21+ only|
 
