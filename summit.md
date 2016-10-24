@@ -89,7 +89,6 @@ Please review the [Summit Code of Conduct](https://github.com/DDD-Moore/dse/blob
 |	Nabeel	Abdur Rehman		|	Using High-resolution Data to Understand Local Disease Transmission Patterns	|
 |	Rebecca	Barter		|	Superheat: an R package	|
 |	C. Titus	Brown		|	Advanced training and collaboration hackathons	|
-|	Robert	Brunner		|	Data Science at Illinois	|
 | Fernando Chirigati| Data Polygamy: The Many-Many Relationships among Urban Spatio-Temporal Data Sets|
 |	Chihoko	Cullens		|	Data Science Demands in Academic Job Advertisements	|
 |	Casey Greene		|	Reproducible computational science. Automatically.	|
