@@ -8,13 +8,11 @@ image:
 
 ### Wednesday October 26, 11:30 am - 9:30 pm
 
+**Who's attending:** This event is by invitation only. An up-to-date list of confirmed attendees is available [here](https://github.com/DDD-Moore/dse/blob/master/wed-summit-attendees.csv). Attendees are Data Science grantees from the [Moore Foundation](http://www.moore.org) and [Sloan Foundation](http://sloan.org), as well as other funders, organizations, and institutions interested in academic data science.
+
 **Location:** [Rosenthal Pavilion](https://www.nyu.edu/community/conference-event-services/facilities/large/rosenthal-pavilion.html), 60 Washington Sq S, 10th Floor, New York NY 10012 (Event will run from 11:30 - 6:00; Rooftop reception following at [230 5th](http://www.230-fifth.com/) - 21+ only)
 
-**Who:** This event is by invitation only. An up-to-date list of confirmed attendees is available [here](https://github.com/DDD-Moore/dse/blob/master/wed-summit-attendees.csv). 
-
 **More info:** The [Data Science Environments Partnership](/about) is hosting a one-day Data Science Summit in NYC on 26 October 2016. This summit will bring together data science practitioners in a broad range of fields, from life, physical, and social sciences to the computational, statistical, and mathematical disciplines, to explore what it means to advance data science for research.
-
-This Summit is part of a week of activities for Data Science grantees from the [Moore Foundation](http://www.moore.org) and [Sloan Foundation](http://sloan.org). We expect over 200 people for an event that includes lunch and goes through an early evening cocktail and appetizer hour. The summit will include demonstrations and lightning talks on new and evolving data science projects and technologies, plus keynote presentations and a panel on data science careers.
 
 ## Agenda
 
