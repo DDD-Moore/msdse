@@ -36,7 +36,7 @@ The intent of this inaugural Data Science Summit is to build connections and see
 | |[_Karthik Ram, UC Berkeley_](http://karthik.io/)||
 |14:35 |Lightning talks & poster/demo viewing|Full list below|
 ||LT1. Jake VanderPlas:	_Altair: Declarative Statistical Visualization in Python_||
-||LT2. Holly Bik: _Phinch: An interactive, exploratory data visualization framework for -Omic datasets_||
+||LT2. [Holly Bik](https://biklab.github.io/): _Phinch: An interactive, exploratory data visualization framework for -Omic datasets_||
 ||LT3. [Nick Adams](https://bids.berkeley.edu/people/nick-adams): _AI Requires Social Scientists and Crowds_||
 |15:45 |Keynote: _Democratizing data skills to advance data-driven-discovery_|Tracy Teal, Executive Director of [Data Carpentry](http://www.datacarpentry.org/) |
 |16:05 |Lightning talks & poster/demo viewing|Full list below|
