@@ -8,7 +8,9 @@ image:
 
 ### Wednesday October 26, 11:30 am - 9:30 pm
 
-**Who's attending:** This event is by invitation onlym hosted by the [Data Science Environments Partnership](/about). An up-to-date list of confirmed attendees is available [here](https://github.com/DDD-Moore/dse/blob/master/wed-summit-attendees.csv). Attendees are data science grantees from the [Moore Foundation](http://www.moore.org) and [Sloan Foundation](http://sloan.org), as well as other funders, organizations, and institutions interested in academic data science. 
+**What:** A one-day summit to bring together practitioners, funders, and institutions interested in supporting academic data science. 
+
+**Who's attending:** This event is by invitation only, hosted by the [Data Science Environments Partnership](/about). An up-to-date list of confirmed attendees is available [here](https://github.com/DDD-Moore/dse/blob/master/wed-summit-attendees.csv). Attendees are data science grantees from the [Moore Foundation](http://www.moore.org) and [Sloan Foundation](http://sloan.org), as well as other funders, organizations, and institutions interested in academic data science. 
 
 **Location:** [Rosenthal Pavilion](https://www.nyu.edu/community/conference-event-services/facilities/large/rosenthal-pavilion.html), 60 Washington Sq S, 10th Floor, New York NY 10012 (Event will run from 11:30 - 6:00; Rooftop reception following at [230 5th](http://www.230-fifth.com/) - 21+ only)
 
