@@ -10,14 +10,11 @@ image:
 
 **Location:** [Rosenthal Pavilion](https://www.nyu.edu/community/conference-event-services/facilities/large/rosenthal-pavilion.html), 60 Washington Sq S, 10th Floor, New York NY 10012 (Event will run from 11:30 - 6:00; Rooftop reception following at [230 5th](http://www.230-fifth.com/) - 21+ only)
 
-The [Data Science Environments Partnership](/about) is hosting a one-day Data Science Summit in NYC on 26 October 2016. This summit will bring together data science practitioners in a broad range of fields, from life, physical, and social sciences to the computational, statistical, and mathematical disciplines, to explore what it means to advance data science for research.
+**Who:** This event is by invitation only. An up-to-date list of confirmed attendees is available [here](https://github.com/DDD-Moore/dse/blob/master/wed-summit-attendees.csv). 
 
-This Summit is part of a week of activities for Data Science grantees from the [Moore Foundation](http://www.moore.org) and [Sloan Foundation](http://sloan.org). The DSE partnership will be convening Monday and Tuesday at Mohnok in upstate New York; this Summit will be the third day of that meeting. On Thursday and Friday, the Moore Foundation is convening their Data-Driven Discovery Investigators for their annual symposium, to be held in New York City. This Summit will serve as the first day of that three day meeting. In addition to these grantees, the partnership has also invited several individuals who are part of the data science community in some capacity.
-<!--![week pic](/images/week.jpg) -->
+**More info:** The [Data Science Environments Partnership](/about) is hosting a one-day Data Science Summit in NYC on 26 October 2016. This summit will bring together data science practitioners in a broad range of fields, from life, physical, and social sciences to the computational, statistical, and mathematical disciplines, to explore what it means to advance data science for research.
 
-We expect over 200 people for an event that includes lunch and goes through an early evening cocktail and appetizer hour. The summit will include demonstrations and lightning talks on new and evolving data science projects and technologies, plus keynote presentations and a panel on data science careers.
-
-The intent of this inaugural Data Science Summit is to build connections and seed new collaborations between the large network of data science practitioners involved in data-intensive research in the United States. We envision this event will continue to grow in future years, so for this initial year, we have limited the number of invited participants to allow for a more focused engagement. 
+This Summit is part of a week of activities for Data Science grantees from the [Moore Foundation](http://www.moore.org) and [Sloan Foundation](http://sloan.org). We expect over 200 people for an event that includes lunch and goes through an early evening cocktail and appetizer hour. The summit will include demonstrations and lightning talks on new and evolving data science projects and technologies, plus keynote presentations and a panel on data science careers.
 
 ## Agenda
 
@@ -49,21 +46,17 @@ The intent of this inaugural Data Science Summit is to build connections and see
 |18:00 |Travel to reception location|
 |19:00 |Reception with drinks and hors d'oeuvres | [230 5th](http://www.230-fifth.com/) - 21+ only|
 
-## Attendees
-
-This event is by invitation only. An up-to-date list of confirmed attendees is available [here](https://github.com/DDD-Moore/dse/blob/master/wed-summit-attendees.csv). Can't make it after all? Please [email us](mailto:ddd@moore.org).
-
 ## Code of Conduct
 
 Please review the [Summit Code of Conduct](https://github.com/DDD-Moore/dse/blob/master/code-of-conduct.md).
 
-## Lodging options near NYU
+<!-- ## Lodging options near NYU
 
 * [Washington Square](http://washingtonsquarehotel.com/)
 * [Four Points Sheraton Soho](http://www.fourpointssohovillage.com/)
 * [Courtyard Marriott Soho](http://www.marriott.com/hotels/travel/nycmt-courtyard-new-york-manhattan-soho/)
 * [Bowery](http://www.theboweryhotel.com/)
-* [Marlton](http://marltonhotel.com/) 
+* [Marlton](http://marltonhotel.com/)  -->
 
 ## Posters and demos
 
