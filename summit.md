@@ -39,7 +39,8 @@ image:
 |15:45 |Keynote: _Democratizing data skills to advance data-driven-discovery_ ([slides](https://tracykteal.github.io/msdse-presentation/slides.html#1))|Tracy Teal, Executive Director of [Data Carpentry](http://www.datacarpentry.org/) |
 |16:05 |Lightning talks & poster/demo viewing|Full list below|
 ||LT4. [Fernando Chirigati](http://fchirigati.com):	_Data Polygamy: The Many-Many Relationships among Urban Spatio-Temporal Data Sets_|[slides](https://github.com/DDD-Moore/msdse/raw/gh-pages/files/fernando.pdf)|
-||LT5. Alyssa Goodman: [_Linked-View Visualization of High-Dimensional Data in glue_](http://glueviz.org)|slides: [keynote]() or [pdf](https://github.com/DDD-Moore/msdse/raw/gh-pages/files/Goodman.pdf)|||LT6. Mario Juric: [_The Large Synoptic Survey Telescope: Ushering the Age of Data-driven Astronomy_](http://lsst.org)||
+||LT5. Alyssa Goodman: [_Linked-View Visualization of High-Dimensional Data in glue_](http://glueviz.org)|slides: [keynote]() or [pdf](https://github.com/DDD-Moore/msdse/raw/gh-pages/files/Goodman.pdf)|
+||LT6. Mario Juric: [_The Large Synoptic Survey Telescope: Ushering the Age of Data-driven Astronomy_](http://lsst.org)||
 ||LT7. [Kerstin Kleese van Dam](http://www.bnl.gov/compsci/): _Streaming Data Analysis for Highly Correlated Events_||
 |17:30 |Keynote: _DeepDive and Snorkel: Dark Data Systems to Answer Macroscopic Questions_|[Chris R&eacute;](http://cs.stanford.edu/people/chrismre/), Stanford University |
 |17:50  |Closing remarks|Juliana Freire, NYU |
