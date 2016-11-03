@@ -25,7 +25,7 @@ image:
 ||Bill Howe, UW|[slides](https://github.com/DDD-Moore/msdse/raw/gh-pages/files/uw_highlight.pdf)|
 ||Juliana Freire, NYU|[slides](https://github.com/DDD-Moore/msdse/raw/gh-pages/files/nyu_highlight.pdf)|
 ||David Culler & Cathryn Carson, UC Berkeley|[slides](https://github.com/DDD-Moore/msdse/raw/gh-pages/files/berkeley_highlight.pptx)|
-|13:50 |Panel Discussion: Data Science Careers|Moderator: Carly Strasser|
+|13:50 |Panel Discussion: Data Science Careers, moderated by Carly Strasser||
 | |[_Jennifer Chayes, Microsoft Research_](http://research.microsoft.com/en-us/um/people/jchayes/)||
 | |[_Simon Hettrick, SSI_](https://www.software.ac.uk/about/people/simon-hettrick)||
 | |[_Ed Lazowska, UW_](https://homes.cs.washington.edu/~lazowska/)||
@@ -43,9 +43,9 @@ image:
 ||LT6. Mario Juric: [_The Large Synoptic Survey Telescope: Ushering the Age of Data-driven Astronomy_](http://lsst.org)||
 ||LT7. [Kerstin Kleese van Dam](http://www.bnl.gov/compsci/): _Streaming Data Analysis for Highly Correlated Events_|[slides](https://github.com/DDD-Moore/msdse/raw/gh-pages/files/Kleese.pdf)|
 |17:30 |Keynote: _DeepDive and Snorkel: Dark Data Systems to Answer Macroscopic Questions_. [Chris R&eacute;](http://cs.stanford.edu/people/chrismre/), Stanford University ||
-|17:50  |Closing remarks|Juliana Freire, NYU |
+|17:50  |Closing remarks by Juliana Freire, NYU ||
 |18:00 |Travel to reception location|
-|19:00 |Reception with drinks and hors d'oeuvres | [230 5th](http://www.230-fifth.com/) - 21+ only|
+|19:00 |Reception with drinks and hors d'oeuvres at [230 5th](http://www.230-fifth.com/) ||
 
 ## Code of Conduct
 
