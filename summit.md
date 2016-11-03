@@ -36,13 +36,13 @@ image:
 ||LT1. Jake VanderPlas:	_Altair: Declarative Statistical Visualization in Python_ |[slides](https://speakerdeck.com/jakevdp/altair-declarative-visualization-in-python-dse-summit-2016)|
 ||LT2. [Holly Bik](https://biklab.github.io/): _Phinch: An interactive, exploratory data visualization framework for -Omic datasets_|[slides](https://github.com/DDD-Moore/msdse/raw/gh-pages/files/Bik.pdf)|
 ||LT3. [Nick Adams](https://bids.berkeley.edu/people/nick-adams): _AI Requires Social Scientists and Crowds_||
-|15:45 |Keynote: _Democratizing data skills to advance data-driven-discovery_ ([slides](https://tracykteal.github.io/msdse-presentation/slides.html#1))|Tracy Teal, Executive Director of [Data Carpentry](http://www.datacarpentry.org/) |
+|15:45 |Keynote: _Democratizing data skills to advance data-driven-discovery_.Tracy Teal, Executive Director of [Data Carpentry](http://www.datacarpentry.org/) [slides](https://tracykteal.github.io/msdse-presentation/slides.html#1)|
 |16:05 |Lightning talks & poster/demo viewing|Full list below|
 ||LT4. [Fernando Chirigati](http://fchirigati.com):	_Data Polygamy: The Many-Many Relationships among Urban Spatio-Temporal Data Sets_|[slides](https://github.com/DDD-Moore/msdse/raw/gh-pages/files/fernando.pdf)|
 ||LT5. Alyssa Goodman: [_Linked-View Visualization of High-Dimensional Data in glue_](http://glueviz.org)|slides: [keynote (large file)](https://www.dropbox.com/sh/o71ntv1qad3nhwz/AADnQNw10ppCVEhRzrE7fvupa/glue_lightning.key?dl=0) or [pdf](https://github.com/DDD-Moore/msdse/raw/gh-pages/files/Goodman.pdf)|
 ||LT6. Mario Juric: [_The Large Synoptic Survey Telescope: Ushering the Age of Data-driven Astronomy_](http://lsst.org)||
-||LT7. [Kerstin Kleese van Dam](http://www.bnl.gov/compsci/): _Streaming Data Analysis for Highly Correlated Events_||
-|17:30 |Keynote: _DeepDive and Snorkel: Dark Data Systems to Answer Macroscopic Questions_|[Chris R&eacute;](http://cs.stanford.edu/people/chrismre/), Stanford University |
+||LT7. [Kerstin Kleese van Dam](http://www.bnl.gov/compsci/): _Streaming Data Analysis for Highly Correlated Events_|[slides](https://github.com/DDD-Moore/msdse/raw/gh-pages/files/Kleese.pdf)|
+|17:30 |Keynote: _DeepDive and Snorkel: Dark Data Systems to Answer Macroscopic Questions_. [Chris R&eacute;](http://cs.stanford.edu/people/chrismre/), Stanford University ||
 |17:50  |Closing remarks|Juliana Freire, NYU |
 |18:00 |Travel to reception location|
 |19:00 |Reception with drinks and hors d'oeuvres | [230 5th](http://www.230-fifth.com/) - 21+ only|
