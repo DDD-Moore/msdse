@@ -34,7 +34,7 @@ Our work is organized around these six challenges, which we believe are themes t
 - [Tools and software](/themes/#tools)
 - [Reproducibility and open science](/themes/#reproducibility)
 - [Physical and intellectual space](/themes/#space)
-- [Ethnography and evaluation](/themes/#ethnography)
+- [Data science studies](/themes/#ethnography)
 
 _**Our Long-Term Goal**_
 
