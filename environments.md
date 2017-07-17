@@ -37,4 +37,5 @@ Note: Although certificate and undergraduate or master’s degree programs in da
 | University of Rochester | [Goergen Institute for Data Science](http://www.rochester.edu/data-science/index.html) |
 | University of Virginia | [Data Science Institute](http://dsi.virginia.edu/) |
 | University of Washington at Tacoma | [Center for Data Science](http://cwds.uw.edu/) |
+| Harvard University |[Data Science Initiative](https://datascience.harvard.edu/) |
 
