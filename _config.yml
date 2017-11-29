@@ -18,7 +18,8 @@ kramdown:
 highlighter: rouge
 gems:
   - jekyll-sitemap
-
+plugins:
+  - jekyll-redirect-from
 
 # Site owner
 owner:
