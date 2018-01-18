@@ -29,4 +29,6 @@ We have created three **Data Science Environments** to work toward our goal:
 - [NYU Center for Data Science](/nyu)
 - [UW eScience Institute](/uw)
 
+Please read one of our white papers on [Creating Institutional Change in Data Science](/creating_institutional_change.html).
+
 Other institutions are working toward similar goals. [Read more about other data science initiatives](/environments#others). 
