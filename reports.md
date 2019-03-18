@@ -7,7 +7,7 @@ image:
 ---
 
 <a name="themetop"></a>
-Below are a series of reports/white papers with information on Moore-Sloan Data Science Enviornments, the universitry partners, and the various thematic areas: 
+Below are a series of reports/white papers with information on Moore-Sloan Data Science Enviornments, the university partners, and the various thematic areas: 
 
 - [Creating Institutional Change in Data Science](#change)
 - [Evaluation of the MSDSE](#eval)
@@ -18,7 +18,7 @@ How do we create and sustain long-term institutional structures which support th
 Read about what the Moore-Sloan Data Science Environments are exploring for their campuses: 
 - [Creating Institutional Change in Data Science](/creating_institutional_change.html)
 
-_[back to top](/themes#themetop)_
+_[back to top](/reports#themetop)_
 
 # <a name="eval"></a> 2015 - 2018 MSDSE Evaluation
 
@@ -29,4 +29,4 @@ In 2015, the Foundations contracted with Abt Associates to conduct a 3-year eval
 - UC Berkeley response -- _link coming soon_
 - University of Washington response -- _link coming soon_ 
 
-_[back to top](/themes#themetop)_
+_[back to top](/reports#themetop)_
