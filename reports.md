@@ -7,7 +7,7 @@ image:
 ---
 
 <a name="themetop"></a>
-Below are a series of reports/white papers with information on Moore-Sloan Data Science Enviornments, the university partners, and the various thematic areas: 
+Below are a series of reports/white papers with information on Moore-Sloan Data Science Environments, the university partners, and the various thematic areas: 
 
 - [Creating Institutional Change in Data Science](#change)
 - [Evaluation of the MSDSE](#eval)
