@@ -22,7 +22,7 @@ _[back to top](/reports#themetop)_
 
 # <a name="eval"></a> 2015 - 2018 MSDSE Evaluation
 
-In 2015, the Foundations contracted with Abt Associates to conduct a 3-year evaluation of the MSDSE program which concluded in Fall 2018. The study drew on several sources: review of MSDSE reports, websites, and policy papers; three site visits to each university; 132 interviews and two on-line surveys of participants and non-participants; and observations at three all hands summits. In addition, Abt Associates examined the broader data science landscape by interviewing the leaders of 17 entities similar to MSDSEs about their efforts.
+In 2015, the Sloan and Moore Foundations contracted with [Abt Associates](https://www.abtassociates.com/) to conduct a 3-year evaluation of the MSDSE program, which concluded in Fall 2018. The study drew on several sources: review of MSDSE reports, websites, and policy papers; three site visits to each university; 132 interviews and two on-line surveys of participants and non-participants; and observations at three all hands summits. In addition, Abt Associates examined the broader data science landscape by interviewing the leaders of 17 entities similar to MSDSEs about their efforts.
 
 - [Abt Associates evaluation MSDSE](/files/ABT_MSDSE_Eval_Report_Feb2019.pdf)
 - New York University response -- _link coming soon_
