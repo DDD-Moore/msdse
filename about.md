@@ -25,7 +25,7 @@ There are significant cultural mismatches between the entrenched structures of u
 3. Building an ecosystem of tools and software
 4. Supporting reproducibility and open science
 5. Creating physical and intellectual space for growing the data science community
-6. Understanding the culture of data science through ethnography and evaluation
+6. Understanding the culture and practice of data science in academia 
 
 Our work is organized around these six challenges, which we believe are themes that can be used to effectively talk about the future of academic data science. **[Learn more](/themes)**: 
 
