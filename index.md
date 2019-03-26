@@ -12,7 +12,7 @@ image:
  <h1 class="page-heading">We are awesome</h1> -->
 
 
-Although data-driven research is already accelerating scientific discovery, substantial systemic challenges in academia need to be overcome to maximize its impact and create supportive environments for researchers using develop data-intensive practices. 
+Although data-driven research is already accelerating scientific discovery, substantial systemic challenges in academia need to be overcome to maximize its impact and create supportive environments for researchers using and developing data-intensive practices. 
 
 We seek to enhance data-driven discovery by supporting cross-disciplinary academic data scientists at research institutions. Our work is organized around six challenges, which are themes used to effectively focus our efforts to advance the future of academic data science. **[Learn more](/themes):**
 
