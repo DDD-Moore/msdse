@@ -25,8 +25,11 @@ _[back to top](/reports#themetop)_
 In 2015, the Sloan and Moore Foundations contracted with [Abt Associates](https://www.abtassociates.com/) to conduct a 3-year evaluation of the MSDSE program, which concluded in Fall 2018. The study drew on several sources: review of MSDSE reports, websites, and policy papers; three site visits to each university; 132 interviews and two on-line surveys of participants and non-participants; and observations at three all hands summits. In addition, Abt Associates examined the broader data science landscape by interviewing the leaders of 17 entities similar to MSDSEs about their efforts.
 
 - [Abt Associates evaluation MSDSE](/files/ABT_MSDSE_Eval_Report_Feb2019.pdf)
-- See also: from New York University -- Center for Data Science, [MSDSE News](https://cds.nyu.edu/msdse-news/)
-- Updates from UC Berkeley -- _link coming soon_
-- Updates from University of Washington -- _link coming soon_ 
+
+See also: 
+- The University of Washington's eScience Institute "[Reflections on five years of the Moore-Sloan Data Science Environment](https://escience.washington.edu/reflections-on-five-years-of-the-moore-sloan-data-science-environment/)"
+- New York University's Center for Data Science, [MSDSE News](https://cds.nyu.edu/msdse-news/)
+- Updates from University of California, Berkeley Institute for Data Science -- _link coming soon_
+
 
 _[back to top](/reports#themetop)_
