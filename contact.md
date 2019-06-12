@@ -8,7 +8,7 @@ image:
 
 ## General Inquiries
 
-[ email: ddd@moore.org](mailto:ddd@moore.org)
+[ email: info@msdse.org](mailto:info@msdse.org)
 
 ## Moore-Sloan Data Science Environments
 
