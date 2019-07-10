@@ -39,7 +39,7 @@ Our growing community has learned a lot over the last 6 years. Below is a collec
 - [Career Paths and Prospects in Academic Data Science: Report of the Moore-Sloan Data Science Environments Survey](https://osf.io/preprints/socarxiv/xe823/)
 - [Building an Urban Data Science Summer Program at the University of Washington eScience Institute](/files/UrbanDataScience2015.pdf)
 - [Hack weeks as a model for data science education and collaboration](/files/Hackweeks_PNAS.pdf)
+- [The BIDS Best Practices in Data Science Series](https://osf.io/ctfqn/wiki/home/)
 
-
-
+------------------------------------------
 _[back to top](/reports#themetop)_
