@@ -11,6 +11,7 @@ Below are a series of reports/white papers with information on Moore-Sloan Data 
 
 - [Creating Institutional Change in Data Science](#change)
 - [Evaluation of the MSDSE](#eval)
+- [White Papers and Reports from our Community](#papers)
 
 # <a name="change"></a> Creating Institutional Change in Data Science
 
@@ -30,6 +31,14 @@ See also:
 - The University of Washington's eScience Institute "[Reflections on five years of the Moore-Sloan Data Science Environment](https://escience.washington.edu/reflections-on-five-years-of-the-moore-sloan-data-science-environment/)"
 - New York University's Center for Data Science, [MSDSE News](https://cds.nyu.edu/msdse-news/)
 - Updates from University of California, Berkeley Institute for Data Science -- _link coming soon_
+
+# <a name="papers"></a> White Papers and Reports
+Our growing community has learned a lot over the last 6 years. Below is a collections of papers and reports on some of the best practices and lessons learned from the MSDSEs and beyond.
+
+- [New Collaboration for New Education: Libraries in the Moore-Sloan Data Science Environments](https://publications.arl.org/17ls5uq/)
+- [Career Paths and Prospects in Academic Data Science: Report of the Moore-Sloan Data Science Environments Survey](https://osf.io/preprints/socarxiv/xe823/)
+- [Building an Urban Data Science Summer Program at the University of Washington eScience Institute](/files/UrbanDataScience2015.pdf)
+- [Hack weeks as a model for data science education and collaboration](/files/Hackweeks_PNAS.pdf)
 
 
 _[back to top](/reports#themetop)_
