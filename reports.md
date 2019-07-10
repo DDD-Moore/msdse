@@ -19,7 +19,6 @@ How do we create and sustain long-term institutional structures which support th
 Read about what the Moore-Sloan Data Science Environments are exploring for their campuses: 
 - [Creating Institutional Change in Data Science](/creating_institutional_change.html)
 
-_[back to top](/reports#themetop)_
 
 # <a name="eval"></a> 2015 - 2018 MSDSE Evaluation
 
