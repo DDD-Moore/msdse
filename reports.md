@@ -39,6 +39,7 @@ Our growing community has learned a lot over the last 6 years. Below is a collec
 - [Building an Urban Data Science Summer Program at the University of Washington eScience Institute](/files/UrbanDataScience2015.pdf)
 - [Hack weeks as a model for data science education and collaboration](/files/Hackweeks_PNAS.pdf)
 - [The BIDS Best Practices in Data Science Series](https://osf.io/ctfqn/wiki/home/)
+- [BIDS 2018-2019 Annual Report](https://bids.berkeley.edu/publications/2018-2019-bids-annual-report)
 
 ------------------------------------------
 _[back to top](/reports#themetop)_
