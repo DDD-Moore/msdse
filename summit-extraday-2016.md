@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "2016 Data Science Summit"
-permalink: /summit/
+permalink: /summit-extraday-2016/
 image:
   feature: nyc.jpg 
 ---
