@@ -17,8 +17,8 @@ NEWS: The 2019 MSDSE Summit and the 2019 Data Science Leadership Summit are in f
 
 **[2019 Data Science Leadership Summit](https://sites.google.com/msdse.org/datascienceleadership2019/home)**
 
-
-
+-------  
+  
 ABOUT THE MSDSEs
 
 Although data-driven research is already accelerating scientific discovery, substantial systemic challenges in academia need to be overcome to maximize its impact and create supportive environments for researchers using and developing data-intensive practices. 
