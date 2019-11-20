@@ -11,9 +11,9 @@ image:
 
  <h1 class="page-heading">We are awesome</h1> -->
 
-NEWS: The 2019 MSDSE Summit and the 2019 Data Science Leadership Summit are in full organizational swing! This year the summits are in the first week of November. Check out the websites for more information:
+NEWS: The 2019 DSE Summit and the 2019 Data Science Leadership Summit were smashing successes! Stay tuned for outputs from both events. In the meantime, check out the program to see what we did:
 
-**[2019 MSDSE Summit](https://sites.google.com/msdse.org/summit2019/home)**
+**[2019 DSE Summit](https://sites.google.com/msdse.org/summit2019/home)**
 
 **[2019 Data Science Leadership Summit](https://sites.google.com/msdse.org/datascienceleadership2019/home)**
 
