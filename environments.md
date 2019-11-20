@@ -16,7 +16,7 @@ One approach we are now supporting, together with the [Academic Data Science All
 
 The mission of the Data Science Cooperative is to equip a trusted and growing community of academically-minded data scientists to share expertise in ways that benefit the individual members and the cooperative. Their peer-powered culture, software-enabled communications systems, convening capacity, and common voice will help members find collaborators, audiences, answers, and financial support. And their cooperative projects will gather and cultivate collective knowledge assets for the shared benefit of membership and audiences. They will pursue their mission in a way that aligns with academic values like transparency, inclusion, and knowledge sharing.    
 
-The 2019 Call for Nominations for the Co-Op Leadership Committee is currently underway. See the [FAQ's](/files/2019CoopNoms) for more information.
+The 2019 Call for Nominations for the Co-Op Leadership Committee is currently underway. See the [FAQ's](/files/2019CoopNoms.pdf) for more information.
 
 ## Moore-Sloan Data Science Environments
 
