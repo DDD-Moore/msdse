@@ -11,7 +11,7 @@ image:
 
  <h1 class="page-heading">We are awesome</h1> -->
 
-NEWS: The 2019 DSE Summit and the 2019 Data Science Leadership Summit were smashing successes! Stay tuned for outputs from both events. In the meantime, check out the program to see what we did:
+NEWS: The 2019 DSE Summit and the 2019 Data Science Leadership Summit were smashing successes! Stay tuned for outputs from both events. In the meantime, check out the programs to see what we did:
 
 **[2019 DSE Summit](https://sites.google.com/msdse.org/summit2019/home)**
 
