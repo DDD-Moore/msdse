@@ -11,8 +11,9 @@ image:
 
  <h1 class="page-heading">We are awesome</h1> -->
 
-**PLEASE NOTE: 
-THIS SITE IS NO LONGER MAINTAINED AND WILL BE ARCHIVED.**
+**PLEASE NOTE:** 
+
+**THIS SITE IS NO LONGER MAINTAINED AND WILL BE ARCHIVED.**
 The work of the MSDSE initiative has largely been moved to the **Academic Data Science Alliance** and expanded to any academic institutions interested in joining the community. 
 For more information, please visit: https://academicdatascience.org
 
