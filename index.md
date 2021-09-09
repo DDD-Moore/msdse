@@ -11,13 +11,24 @@ image:
 
  <h1 class="page-heading">We are awesome</h1> -->
 
-NEWS: The 2019 DSE Summit and the 2019 Data Science Leadership Summit were smashing successes! Stay tuned for outputs from both events. In the meantime, check out the programs to see what we did:
+**PLEASE NOTE: THIS SITE IS NO LONGER MAINTAINED AND WILL BE ARCHIVED.**
+The work of the MSDSE initiative has largely been moved to the **Academic Data Science Alliance** and expanded to any academic institutions interested in joining the community. 
+For more information, please visit: https://academicdatascience.org
+
+To learn about the work of the original MSDSE institutes, please visit:
+- [UC Berkeley Institute for Data Science](/ucb)
+- [NYU Center for Data Science](/nyu)
+- [UW eScience Institute](/uw)
+
+-------  
+***THE BELOW CONTENT AND LINKED PAGES HAVE NOT BEEN UPDATED SINCE 2019.***
+
+Links to our final DSE Summits, run by the [Academic Data Science Alliance](https://academicdatascience.org):
 
 **[2019 DSE Summit](https://sites.google.com/msdse.org/summit2019/home)**
 
 **[2019 Data Science Leadership Summit](https://sites.google.com/msdse.org/datascienceleadership2019/home)**
 
--------  
   
 ABOUT THE MSDSEs
 
