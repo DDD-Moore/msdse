@@ -1,5 +1,5 @@
 
-
+![MSDSE logo](/images/msdse.jpg)
 
 <!-- <div class="home">
  <h1 class="page-heading">We are awesome</h1> -->
